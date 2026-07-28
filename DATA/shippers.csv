@@ -1,0 +1,28 @@
+shipper_id,company_name,shipping_mode,contact_person,email,phone,city,state,country,established_year,company_rating,average_delivery_days,shipping_charge,total_orders_handled,international_shipping,support_availability,transport_mode,cod_available,website,status
+1, Blue Dart ,Standard,Aryan Maharaj,udantdewan@example.net,9022768040,Bongaigaon,Assam,India,2001,3.8,10,27.43,27062,No,24x7,Road,1,https://www.chander.com/,Active
+2,Delhivery,Express,Rushil Saini,saumyamall@example.org,9631930086,BHUSAWAL,Karnataka,India,2020,3.6,8,170.14,50615,Yes,Business Hours,Rail,1,https://www.nayar.com/,Active
+3,DTDC,Standard,Gunbir Parmer,aishani07@example.net,9022021263,Burhanpur,Assam,India,2006,4.0,5,216.51,90593,Yes,24x7,Rail,0,https://handa.com/,Active
+4,Ekart,Next Day,Fariq Kaul,raiarunima@example.com,9396568720,Ujjain,Kerala,India,2005,4.1,2,79.08,75341,No,24x7,Rail,1,https://www.loke.net/,Inactive
+5,XpressBees,Next Day,Nihal Shere,omadan@example.net,9117574539,Anantapur,Uttarakhand,India,1999,4.3,2,231.62,15371,Yes,24x7,Rail,1,http://www.mutti.com/,Active
+6,India Post,Next Day,Siddharth Murty,xalakrandhawa@example.net,9395980765,ASANSOL,Himachal Pradesh,India,2003,4.7,6,51.23,57985,Yes,Business Hours,Air,1,http://www.yohannan.org/,Active
+7,Ecom Express,Standard,Janaki Kanda,yashodharatak@example.org,9826617575,Bhubaneswar,Chhattisgarh,India,1995,4.4,8,25.45,48576,No,24x7,Air,0,http://bhatt.org/,Active
+8,FedEx,Standard,Zayan Apte,yadavamara@example.net,9789516915,Gorakhpur,Jharkhand,India,2014,4.1,4,280.1,99994,Yes,Business Hours,Road,1,https://www.aggarwal-lall.net/,Inactive
+9,DHL,Next Day,Yashica Cherian,,9123522062,Nanded,Nagaland,India,2023,3.5,6,39.84,32195,No,Business Hours,Air,0,http://bahl-choudhury.com/,Inactive
+10,Shadowfax,Express,Wriddhish Bhardwaj,farhanchada@example.net,9781044476,Coimbatore,Tripura,India,2015,3.6,7,223.9,15322,Yes,24x7,Air,1,http://www.soman.net/,Active
+11,Amazon Transportation,Next Day,Siddharth Zacharia,devikarastogi@example.net,12345,Bahraich,Mizoram,India,1995,5.0,4,66.57,64653,No,24x7,Road,0,https://www.kar.com/,Active
+12,Borzo,Next Day,Victor Kannan,bobaldaniel@example.org,9039726776,Patna,West Bengal,India,2010,3.7,5,80.96,8665,Yes,Business Hours,Air,0,https://www.khanna.com/,Inactive
+13,Gati,Express,Urvashi Kibe,mray@example.org,9058008495,Chinsurah,Kerala,India,2013,4.4,10,42.96,87163,No,Business Hours,Air,1,https://bhagat-chaudhari.com/,Active
+14,Safexpress,Same Day,Harinakshi Chopra,rehaangupta@example.net,9362370499,Kolhapur,Maharashtra,India,1997,4.3,9,94.26,46745,Yes,24x7,Road,1,http://krish-borra.info/,Active
+15,VRL Logistics,Next Day,Chandresh Zachariah,chanderwarjas@example.org,9876960826,Shivpuri,Meghalaya,India,2023,3.7,2,269.12,98310,Yes,Business Hours,Road,0,http://gala.com/,Inactive
+16,Mahindra Logistics,Express,Alka Sha,pallavi87@example.org,9685290680,Sagar,Gujarat,India,2005,4.7,5,65.24,58912,No,24x7,Air,0,http://www.murthy.org/,Active
+17,TCI Express,Standard,Yadavi Wali,,9851138788,Coimbatore,Punjab,India,2001,4.5,2,119.03,74385,No,24x7,Air,0,http://www.dar-koshy.org/,Active
+18,Aramex,Next Day,Finn Saini,advika35@example.org,9073988827,Tenali,Chhattisgarh,India,1998,4.1,1,260.41,30154,Yes,Business Hours,Road,1,https://bora-andra.info/,Active
+19, Trackon ,Express,Ethan Yogi,yashawinilanka@example.org,12345,Coimbatore,Haryana,India,2012,4.0,1,52.3,35237,Yes,Business Hours,Air,0,https://sarma.com/,Inactive
+20,Professional Couriers,Same Day,Chandani Chawla,aishanidalia@example.org,9736535270,Darbhanga,Jharkhand,India,2020,4.3,4,121.98,10171,No,Business Hours,Rail,0,http://lalla.info/,Inactive
+21,Shiprocket,Same Day,Charan Chanda,cmalhotra@example.org,9636516371,Bikaner,Rajasthan,India,2013,4.0,9,253.44,40829,No,24x7,Road,1,https://www.sathe.com/,Inactive
+22,Pickrr,Next Day,Manthan Banik,manbir62@example.org,9424971056,Bharatpur,Uttar Pradesh,India,2005,3.6,4,208.38,30444,Yes,24x7,Air,0,http://krish.com/,Active
+23,NimbusPost,Next Day,Niharika Dubey,nicholasgoel@example.com,9674857331,Mangalore,Telangana,India,2017,3.5,2,237.96,29683,Yes,Business Hours,Air,0,https://kothari.com/,Active
+24,First Flight,Next Day,Balvan Singhal,ryansharma@example.com,9145537488,Ambattur,Haryana,India,2008,4.7,9,144.86,21861,No,Business Hours,Road,0,http://www.narasimhan-mallick.com/,Inactive
+25,Bluedart Express,Next Day,Indali Upadhyay,vyadav@example.org,9620223512,Bhilwara,Goa,India,2017,3.7,4,37.98,54424,No,Business Hours,Road,0,https://www.saraf.com/,Active
+9,DHL,Next Day,Yashica Cherian,,9123522062,Nanded,Nagaland,India,2023,3.5,6,39.84,32195,No,Business Hours,Air,0,http://bahl-choudhury.com/,Inactive
+17,TCI Express,Standard,Yadavi Wali,,9851138788,Coimbatore,Punjab,India,2001,4.5,2,119.03,74385,No,24x7,Air,0,http://www.dar-koshy.org/,Active

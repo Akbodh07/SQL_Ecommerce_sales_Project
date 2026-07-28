@@ -1,0 +1,306 @@
+employee_id,first_name,last_name,gender,age,department,designation,salary,bonus,experience_years,manager_id,city,state,email,phone,joining_date,shift,employment_type,is_active,performance_rating
+1,Isaac,Bakshi,Male,29,SALES,Team Lead,57098,11265.11,7,,Mumbai,Maharashtra,yash32@example.net,9500265774,2025-06-08,Evening,Contract,1,4.4
+2,Gagan,Sami,Female,34,Customer Support,Team Lead,61421,14829.65,4,,Bangalore,Karnataka,balangirik@example.org,9133320419,2016-04-19,Morning,Contract,0,3.9
+3,Yashasvi,Bala,Male,26,Sales,Senior Executive,126327,27926.29,9,,Mumbai,Maharashtra,onikannan@example.com,9348136760,2018-07-07,Night,Permanent,1,2.9
+4,Arunima,Ahuja,Male,24,IT,Manager,53785,5153.12,10,,Ahmedabad,Gujarat,pahaloak@example.com,9840957248,2024-07-31,Night,Contract,1,3.2
+5,Tanveer,Nayar,Male,46,IT,Manager,81155,9933.31,18,,Chennai,Tamil Nadu,chandalajita@example.org,9500167403,2017-03-15,Evening,Contract,1,4.2
+6, Hemangini ,Lalla,Male,48,IT,Team Lead,39621,3234.32,9,,Mumbai,Maharashtra,,9982519826,2020-08-30,Night,Permanent,1,3.4
+7,Chaaya,Pathak,Female,22,Sales,Manager,67487,4884.27,15,,Bangalore,Karnataka,ekarajbath@example.net,9883089040,2015-11-24,Night,Permanent,1,4.1
+8,Bimala,Buch,Male,48,Finance,Team Lead,94163,22869.61,19,,Noida,Uttar Pradesh,harrisonrai@example.com,9736384200,2018-06-08,Night,Permanent,1,2.5
+9,Janya,Gaba,Male,42,HR,Executive,143675,9219.84,1,,Delhi,Delhi,isha34@example.net,9245785244,2022-04-09,Morning,Permanent,0,3.4
+10,Ekbal,Garg,Female,27,Operations,Executive,113259,7035.94,20,,Ahmedabad,Gujarat,,9811511480,2026-03-09,Night,Permanent,1,4.1
+11,Theodore,Nair,Female,31,Sales,Executive,146420,19222.43,7,,Noida,Uttar Pradesh,karnikazad@example.com,9240392744,2019-02-24,Night,Contract,1,3.0
+12, Amrita ,Bhatti,Male,24,Sales,Manager,121434,24237.63,17,,Chennai,Tamil Nadu,divyakala@example.net,9049505800,2021-05-19,Morning,Contract,1,4.9
+13,Meghana,Shanker,Female,60,HR,Manager,102924,6833.81,1,,Gurgaon,Haryana,alkadewan@example.org,9927236237,2023-01-19,Morning,Permanent,0,4.1
+14,Adya,Sangha,Female,53,Marketing,Executive,95468,9837.03,6,,Gurgaon,Haryana,opathak@example.org,9883187696,2024-02-09,Morning,Contract,1,4.8
+15,Wakeeta,Chand,Female,56,IT,Executive,141616,11483.58,3,,Bangalore,Karnataka,choudharymichael@example.net,9672624980,2023-03-24,Evening,Contract,1,2.5
+16,Pahal,Bhatt,Male,56,IT,Senior Executive,122154,23347.72,14,,Bangalore,Karnataka,mraj@example.com,9196103540,2017-04-12,Evening,Permanent,0,3.0
+17,Zayan,Apte,Male,47,Marketing,Team Lead,127251,31146.9,17,,Chennai,Tamil Nadu,yadavamara@example.net,9921714197,2023-07-23,Evening,Permanent,0,2.9
+18,Isaac,Memon,Female,35,Customer Support,Executive,137537,12366.58,15,,Mumbai,Maharashtra,ddugar@example.org,9388263207,2020-05-05,Evening,Contract,0,4.8
+19,Xiti,Gokhale,Female,23,IT,Senior Executive,101099,7246.83,8,,Mumbai,Maharashtra,misrayashica@example.net,9374918104,2019-01-14,Night,Permanent,0,3.6
+20,Michael,Prakash,Female,53,Warehouse,Executive,119339,13348.89,9,,Lucknow,Uttar Pradesh,aadinaik@example.com,9365163715,2017-12-09,Evening,Permanent,0,3.2
+21,Isaac,Patil,Male,34,WAREHOUSE,Assistant Manager,82905,11991.15,14,17.0,Ahmedabad,Gujarat,wriddhish03@example.net,9626609238,2014-11-21,Morning,Permanent,1,3.1
+22,Frederick,Sunder,Female,57,Marketing,Assistant Manager,79321,15362.03,20,7.0,Kolkata,West Bengal,waliajeremiah@example.org,9426077141,2015-11-24,Night,Contract,1,3.9
+23,Vaishnavi,Gandhi,Female,54,Operations,Senior Executive,130043,21989.03,14,18.0,Mumbai,Maharashtra,pallavi38@example.net,9675858742,2025-10-12,Morning,Contract,0,4.1
+24,Sai,Muni,Male,36,Operations,Executive,118525,13887.52,9,9.0,Jaipur,Rajasthan,cprakash@example.net,9126704542,2026-04-17,Evening,Contract,1,4.6
+25,Jai,Kota,Female,40,Customer Support,Assistant Manager,25772,5687.61,11,13.0,Gurgaon,Haryana,devanshnigam@example.org,9577842436,2022-03-28,Evening,Permanent,0,4.8
+26,Victor,Kannan,Male,22,Sales,Assistant Manager,102580,18315.65,18,3.0,Gurgaon,Haryana,bobaldaniel@example.org,9812343829,2024-07-25,Evening,Contract,1,3.7
+27,Azad,Narayanan,Male,25,Sales,Team Lead,54389,10923.85,20,2.0,Noida,Uttar Pradesh,varkeywazir@example.com,9101165267,2015-09-14,Morning,Permanent,1,4.9
+28,Vedika,Kala,Male,46,SALES,Team Lead,100470,6550.57,12,7.0,Mumbai,Maharashtra,urvashikibe@example.com,9178619734,2025-12-08,Evening,Permanent,0,2.5
+29,Ranveer,Chandra,Female,50,Operations,Executive,81822,11217.59,11,5.0,Ahmedabad,Gujarat,sankarirya@example.com,9697485329,2021-06-25,Evening,Contract,1,4.4
+30,Unni,Bhagat,Female,41,Customer Support,Team Lead,28761,4242.53,15,6.0,Gurgaon,Haryana,bhatneha@example.net,9738720907,2021-07-20,Evening,Permanent,0,4.1
+31,Ikbal,Kothari,Female,35,Operations,Executive,37196,7006.14,9,13.0,Kolkata,West Bengal,ranveeryadav@example.com,9635395343,2020-04-30,Morning,Permanent,1,3.3
+32,Pahal,Goswami,Female,38,Finance,Senior Executive,53361,13090.6,15,19.0,Noida,Uttar Pradesh,turvi31@example.com,9982337100,2016-12-10,Evening,Permanent,0,2.8
+33,Guneet,Bedi,Female,42,IT,Assistant Manager,87746,21331.01,14,6.0,Delhi,Delhi,chanderwarjas@example.org,9948406015,2023-12-02,Evening,Permanent,1,2.8
+34,Vedika,Srivastava,Female,49,HR,Manager,74856,16620.53,14,10.0,Ahmedabad,Gujarat,nandinibhargava@example.org,9366792261,2021-06-21,Morning,Permanent,1,2.5
+35,Aarnav,Ramakrishnan,Female,39,Operations,Team Lead,29278,5580.31,7,10.0,Kolkata,West Bengal,suhani46@example.net,9022758112,2021-01-01,Morning,Contract,1,2.7
+36,Vidhi,Dubey,Female,39,IT,Manager,123167,9221.6,18,15.0,Bangalore,Karnataka,chamankalla@example.org,9695400432,2024-01-05,Morning,Permanent,1,5.0
+37,Darsh,Murthy,Female,49,Sales,Senior Executive,86669,7479.35,16,9.0,Jaipur,Rajasthan,bedivansha@example.net,9640336836,2024-05-29,Evening,Contract,1,3.6
+38,Nakul,Bhandari,Female,53,IT,Team Lead,40194,7296.5,12,1.0,Lucknow,Uttar Pradesh,grewalekapad@example.net,9413767259,2023-08-05,Evening,Contract,1,2.6
+39,Wahab,Raval,Male,21,HR,Senior Executive,65730,8649.95,17,18.0,Gurgaon,Haryana,koshybalveer@example.net,9994184752,2015-09-18,Evening,Contract,1,3.6
+40,Oni,Virk,Female,53,Customer Support,Senior Executive,145831,32491.93,19,5.0,Bangalore,Karnataka,advika35@example.org,9783720785,2015-12-14,Night,Contract,1,3.6
+41,Meghana,Deep,Male,45,Warehouse,Team Lead,97340,23027.77,17,15.0,Kolkata,West Bengal,tanvi51@example.org,9923843493,2019-01-28,Night,Permanent,0,4.9
+42,Harish,Borah,Male,27,Warehouse,Executive,139581,32395.12,14,17.0,Bangalore,Karnataka,yashawinilanka@example.org,9746149366,2022-05-09,Evening,Contract,0,4.1
+43,Ekapad,Konda,Female,39,Sales,Manager,33968,6771.63,7,8.0,Kolkata,West Bengal,bhavani27@example.net,9977112030,2020-06-29,Evening,Contract,0,2.9
+44,Chasmum,Wadhwa,Female,31,Customer Support,Manager,114364,7524.43,5,6.0,Noida,Uttar Pradesh,mistryhemang@example.org,9629142208,2026-07-11,Evening,Permanent,1,3.6
+45,Jack,Chhabra,Female,50,IT,Assistant Manager,115480,10375.12,8,10.0,Lucknow,Uttar Pradesh,anitamanda@example.net,9813326083,2019-01-21,Morning,Permanent,0,4.6
+46,Hemal,Jani,Male,35,HR,Manager,130110,22662.33,11,7.0,Jaipur,Rajasthan,yashasvi74@example.org,9696345702,2018-02-20,Night,Contract,1,3.0
+47,Pallavi,Malhotra,Female,31,Warehouse,Manager,90771,21132.38,8,9.0,Noida,Uttar Pradesh,aggarwalgauri@example.org,9928840726,2016-02-16,Night,Contract,0,2.7
+48, Adweta ,Edwin,Female,50,Sales,Team Lead,95329,17594.46,3,12.0,Ahmedabad,Gujarat,jsane@example.org,9589120859,2025-05-24,Morning,Permanent,0,4.8
+49,Faqid,Dixit,Male,23,Customer Support,Executive,43320,10794.71,1,10.0,Jaipur,Rajasthan,pinglemanbir@example.com,9081467947,2016-06-17,Morning,Contract,1,4.6
+50,Benjamin,Morar,Male,34,Customer Support,Team Lead,29288,4069.25,11,15.0,Gurgaon,Haryana,balveer53@example.net,9806593311,2016-09-21,Evening,Permanent,1,4.1
+51,Harshil,Pandya,Male,36,Sales,Executive,128126,26572.77,10,5.0,Gurgaon,Haryana,pdubey@example.org,9072283190,2018-10-20,Morning,Permanent,0,4.5
+52,Nitara,Bakshi,Male,36,SALES,Senior Executive,26947,3092.28,11,19.0,Mumbai,Maharashtra,gaurangisabharwal@example.net,9214104354,2017-07-27,Morning,Permanent,0,3.6
+53,Amara,Dutta,Female,48,Sales,Assistant Manager,136057,20143.75,12,4.0,Delhi,Delhi,rajabalvan@example.com,9006026539,2018-10-12,Night,Contract,0,3.8
+54,Ryan,Sharma,Male,56,Marketing,Executive,136777,18603.59,20,7.0,Ahmedabad,Gujarat,dalaja33@example.org,9483733296,2018-05-05,Evening,Permanent,1,4.6
+55,Reyansh,Rastogi,Female,29,Customer Support,Executive,122594,7600.36,11,18.0,Mumbai,Maharashtra,arya14@example.com,9648949023,2025-10-14,Morning,Permanent,1,4.1
+56,Yashodhara,Ratta,Male,44,Marketing,Team Lead,135804,27503.18,17,4.0,Chennai,Tamil Nadu,ayaan14@example.org,9889866098,2025-06-21,Evening,Permanent,1,3.2
+57,Alka,Barad,Male,30,Warehouse,Team Lead,25800,4681.9,5,19.0,Jaipur,Rajasthan,sarafhemani@example.net,9160724337,2024-06-07,Night,Permanent,1,2.9
+58,Rajata,Vaidya,Female,48,Sales,Executive,60665,10398.9,14,16.0,Gurgaon,Haryana,rajanranveer@example.com,9271426460,2019-11-23,Evening,Permanent,1,3.0
+59,Rajata,Agarwal,Female,28,Finance,Team Lead,62938,9407.79,10,1.0,Chennai,Tamil Nadu,janujasankar@example.org,9137588080,2015-04-24,Morning,Contract,1,4.7
+60,Ganga,Murthy,Male,47,Customer Support,Manager,78008,5697.29,20,10.0,Gurgaon,Haryana,mitalyashica@example.com,9919463414,2025-11-09,Evening,Permanent,0,4.7
+61,Nilima,Narain,Male,25,HR,Team Lead,127120,22455.1,5,17.0,Lucknow,Uttar Pradesh,jmerchant@example.org,9937882116,2025-11-25,Night,Permanent,1,4.9
+62,Osha,Raghavan,Female,49,Operations,Manager,124598,22253.0,18,19.0,Kolkata,West Bengal,charviravi@example.net,9861043205,2017-10-27,Evening,Contract,0,2.6
+63,Daksha,Mangat,Female,60,IT,Executive,109497,16579.33,2,20.0,Lucknow,Uttar Pradesh,qushinagy@example.com,9597095165,2014-07-25,Morning,Contract,1,4.5
+64,Riya,Kala,Female,23,Marketing,Manager,109689,21008.11,5,8.0,Lucknow,Uttar Pradesh,qgara@example.org,9563937606,2022-01-27,Evening,Permanent,0,2.7
+65,Yutika,Nayak,Male,30,IT,Team Lead,119861,7946.83,19,11.0,Ahmedabad,Gujarat,keerdayita@example.org,9936617056,2019-05-21,Evening,Permanent,1,4.1
+66,Manan,Bakshi,Female,32,Warehouse,Executive,72526,8583.2,9,7.0,Ahmedabad,Gujarat,kondavaishnavi@example.net,9191275575,2017-12-11,Night,Contract,1,4.0
+67,Tamanna,Sachdeva,Female,31,Finance,Senior Executive,133966,7868.96,19,15.0,Bangalore,Karnataka,leenatalwar@example.com,9624274538,2015-10-18,Evening,Permanent,0,4.2
+68,Manbir,Ahluwalia,Male,45,Operations,Assistant Manager,125851,19568.82,9,17.0,Gurgaon,Haryana,sandaltheodore@example.org,9881268518,2018-09-16,Morning,Contract,1,4.4
+69,Zarna,Shetty,Female,26,Operations,Manager,44313,9453.76,13,8.0,Jaipur,Rajasthan,krishjairaj@example.com,9943330230,2026-05-25,Night,Contract,1,2.8
+70,Ucchal,Wali,Male,49,Operations,Senior Executive,124462,6353.81,15,20.0,Jaipur,Rajasthan,saanvi98@example.com,9021964721,2016-10-28,Morning,Contract,0,2.7
+71,Sanaya,Dutt,Female,30,Sales,Manager,100372,13635.31,7,10.0,Kolkata,West Bengal,qsengupta@example.org,12345,2023-11-17,Night,Permanent,0,4.7
+72,Aradhana,Verma,Male,43,Customer Support,Team Lead,58246,6928.97,0,3.0,Delhi,Delhi,rkhare@example.com,9773058174,2025-05-28,Night,Contract,1,4.5
+73,Bhavika,Keer,Female,23,Operations,Executive,63462,14415.91,6,7.0,Mumbai,Maharashtra,gautami58@example.org,9959527137,2015-11-16,Night,Contract,0,2.8
+74,Matthew,Kashyap,Female,45,Customer Support,Assistant Manager,122426,29963.12,14,11.0,Lucknow,Uttar Pradesh,tdua@example.org,9637204491,2016-11-28,Evening,Contract,1,2.7
+75,Oeshi,Reddy,Male,31,IT,Assistant Manager,103986,12510.49,13,15.0,Jaipur,Rajasthan,unnati60@example.org,9796467064,2015-08-26,Night,Permanent,1,2.9
+76,Lopa,Bahri,Male,36,Operations,Executive,41545,5086.36,2,12.0,Gurgaon,Haryana,asood@example.com,9669375536,2021-09-14,Morning,Permanent,1,4.3
+77,Madhavi,Saini,Female,37,Customer Support,Manager,40435,3756.98,8,15.0,Kolkata,West Bengal,vinayakanda@example.com,9692101798,2019-08-21,Evening,Contract,1,3.9
+78,Vedika,Balakrishnan,Male,32,IT,Senior Executive,118298,17951.86,20,12.0,Jaipur,Rajasthan,qnayar@example.net,9972435491,2021-12-21,Morning,Permanent,0,3.5
+79, Noah ,Sibal,Male,25,Customer Support,Assistant Manager,132916,32494.76,18,5.0,Kolkata,West Bengal,aviramesh@example.net,12345,2021-06-08,Morning,Permanent,1,3.3
+80,Avi,Chacko,Female,39,Warehouse,Senior Executive,70353,7043.82,16,3.0,Bangalore,Karnataka,ddeshmukh@example.org,9135519167,2024-02-28,Night,Contract,1,4.6
+81,Abha,Raghavan,Female,57,Marketing,Executive,149327,26912.61,20,9.0,Delhi,Delhi,siddharth75@example.com,9608563284,2015-05-31,Evening,Permanent,1,2.9
+82,Arunima,Sama,Female,59,Operations,Assistant Manager,51741,5821.72,10,5.0,Ahmedabad,Gujarat,finn70@example.net,9789135342,2021-01-02,Morning,Permanent,1,2.6
+83,Charles,Palla,Male,41,Customer Support,Senior Executive,138417,26884.14,5,19.0,Ahmedabad,Gujarat,ekapadbaria@example.org,9745430959,2023-09-25,Morning,Contract,1,2.6
+84,Ryan,Bahri,Female,27,Operations,Team Lead,95345,7321.26,0,14.0,Kolkata,West Bengal,williamdate@example.com,9773451505,2018-10-06,Night,Contract,1,2.8
+85,Ishwar,Kamdar,Male,56,Customer Support,Team Lead,129188,25965.89,10,12.0,Mumbai,Maharashtra,xkunda@example.com,9640078518,2025-12-11,Morning,Contract,0,2.9
+86,Ishwar,Gade,Female,53,IT,Manager,69089,10223.05,16,18.0,Gurgaon,Haryana,hritik90@example.com,9403143886,2017-05-30,Night,Contract,0,4.9
+87,Keya,Ranganathan,Female,31,HR,Executive,101483,17841.22,15,17.0,Gurgaon,Haryana,faqidkibe@example.org,9160910316,2024-05-08,Evening,Contract,1,4.3
+88,Charvi,Dara,Male,54,HR,Manager,67604,7622.39,15,13.0,Noida,Uttar Pradesh,palanpriya@example.net,9455686824,2026-06-02,Morning,Contract,0,3.1
+89,Ekapad,Toor,Female,41,IT,Senior Executive,115471,13828.88,15,16.0,Jaipur,Rajasthan,advik67@example.org,9255833710,2020-11-10,Night,Permanent,0,4.8
+90,Janaki,Sharaf,Male,38,Operations,Senior Executive,51485,9742.73,17,18.0,Jaipur,Rajasthan,radhikagoda@example.net,9172092213,2021-12-06,Evening,Permanent,1,2.5
+91,Anamika,Yohannan,Female,51,Finance,Assistant Manager,110575,22245.72,15,7.0,Noida,Uttar Pradesh,bshroff@example.net,9369055799,2023-06-08,Morning,Contract,1,4.8
+92,Amrita,Naidu,Male,23,Customer Support,Assistant Manager,49420,5420.31,9,1.0,Delhi,Delhi,gabrielmallick@example.com,9934658152,2024-08-20,Morning,Contract,1,4.3
+93,Ucchal,Raghavan,Male,39,Finance,Executive,121549,22472.01,10,19.0,Jaipur,Rajasthan,ayush75@example.org,9188850611,2018-09-15,Evening,Permanent,1,3.2
+94,Simon,Pant,Female,58,Operations,Team Lead,68204,3566.19,9,19.0,Chennai,Tamil Nadu,harini49@example.net,9601345873,2022-11-07,Morning,Contract,0,4.0
+95,Advaith,Varughese,Female,59,Finance,Assistant Manager,45078,6003.0,14,12.0,Chennai,Tamil Nadu,frederickkhurana@example.net,9788765755,2019-04-04,Evening,Permanent,1,2.7
+96,Vrinda,Khosla,Female,31,HR,Manager,95341,21060.56,4,11.0,Noida,Uttar Pradesh,cswaminathan@example.org,9125058454,2021-06-21,Morning,Contract,0,4.3
+97,Chaitaly,Kant,Female,58,IT,Executive,122754,7249.6,6,3.0,Ahmedabad,Gujarat,tkohli@example.net,9750894211,2016-02-21,Night,Contract,0,5.0
+98,Jyoti,Solanki,Female,55,Operations,Assistant Manager,74236,13414.95,2,5.0,Ahmedabad,Gujarat,pavani85@example.com,9193198794,2024-06-13,Night,Contract,0,4.6
+99,Sudiksha,Madan,Female,33,Operations,Team Lead,45332,2558.7,8,4.0,Chennai,Tamil Nadu,zayan31@example.net,9698205468,2026-07-07,Morning,Permanent,0,3.6
+100,Diya,Dar,Female,39,HR,Executive,43367,9243.99,16,8.0,Noida,Uttar Pradesh,rehaankalita@example.net,9578289542,2017-10-31,Night,Permanent,0,3.9
+101,Aradhana,Vohra,Female,41,Warehouse,Assistant Manager,127996,16850.91,16,14.0,Delhi,Delhi,harish34@example.org,9374837895,2022-10-17,Evening,Permanent,0,3.1
+102, Praneel ,Mittal,Male,44,Warehouse,Executive,145878,22921.39,14,3.0,Chennai,Tamil Nadu,wallajonathan@example.com,9036008562,2020-09-11,Morning,Contract,0,4.9
+103,Chatura,Master,Male,51,HR,Senior Executive,122186,23108.46,3,8.0,Delhi,Delhi,vrittichauhan@example.org,9323246338,2015-05-01,Evening,Permanent,0,4.4
+104,Bhavani,Singh,Male,23,HR,Team Lead,66015,14709.26,13,19.0,Lucknow,Uttar Pradesh,vsastry@example.org,9055721252,2024-04-28,Night,Contract,0,4.4
+105,Zayyan,Sridhar,Female,31,Operations,Assistant Manager,47050,9130.65,11,5.0,Kolkata,West Bengal,bhattacharyyanandini@example.com,9189958080,2015-06-07,Morning,Contract,1,4.6
+106,Chatresh,Doshi,Female,53,Marketing,Senior Executive,26198,3265.32,6,15.0,Chennai,Tamil Nadu,dakshachada@example.org,9605407525,2015-10-26,Night,Contract,1,2.8
+107,Omaja,Kara,Female,54,Finance,Senior Executive,50156,10685.38,19,9.0,Mumbai,Maharashtra,cseshadri@example.com,9709426280,2016-07-28,Night,Permanent,1,3.5
+108,Pushti,Mody,Female,31,Operations,Executive,108459,16265.78,0,3.0,Ahmedabad,Gujarat,chaudharysarthak@example.net,9639989296,2024-07-26,Night,Contract,0,2.6
+109,Aishani,Bumb,Male,32,IT,Manager,98860,5252.59,1,11.0,Mumbai,Maharashtra,wriddhishghose@example.net,9577301283,2018-02-23,Night,Contract,0,4.4
+110,Naksh,Agate,Male,24,Marketing,Manager,122708,16862.25,11,4.0,Bangalore,Karnataka,,9379370294,2015-11-01,Evening,Contract,0,3.0
+111,Bishakha,Bali,Male,39,Customer Support,Executive,126209,24310.59,19,8.0,Gurgaon,Haryana,bhavyamandal@example.net,9237133094,2022-07-20,Evening,Permanent,1,2.7
+112,Ekavir,Kaur,Female,47,Operations,Manager,97710,5398.71,16,4.0,Ahmedabad,Gujarat,rudra61@example.net,12345,2022-04-13,Morning,Permanent,0,2.9
+113,Manthan,Lata,Female,25,IT,Team Lead,89634,12274.05,4,6.0,Jaipur,Rajasthan,ekbalbhasin@example.org,9273974641,2018-05-19,Morning,Contract,0,4.6
+114,Bhavya,Sarna,Male,59,Warehouse,Assistant Manager,68874,7582.14,13,5.0,Ahmedabad,Gujarat,sidhudaksha@example.net,9413376973,2019-10-16,Evening,Contract,0,2.8
+115,Anita,Tella,Female,56,HR,Manager,96516,23221.84,5,1.0,Gurgaon,Haryana,fsarma@example.net,9927808761,2021-05-28,Evening,Permanent,0,4.1
+116,Rachana,Naidu,Female,51,Customer Support,Executive,83860,10915.3,19,19.0,Ahmedabad,Gujarat,atharv13@example.net,9573856076,2015-03-27,Evening,Permanent,1,3.9
+117,Ansh,Luthra,Male,27,Warehouse,Assistant Manager,38886,3670.85,0,9.0,Ahmedabad,Gujarat,gillupma@example.net,9437553014,2024-05-05,Morning,Permanent,1,3.4
+118,Riya,Mall,Female,43,Operations,Senior Executive,93303,6486.85,15,16.0,Lucknow,Uttar Pradesh,rajataswamy@example.org,9338186619,2025-08-22,Morning,Permanent,1,3.3
+119,Ijaya,Rege,Female,32,Operations,Senior Executive,129563,23074.62,12,6.0,Ahmedabad,Gujarat,ekani12@example.com,9378440227,2022-07-21,Morning,Permanent,1,3.4
+120,Warhi,Mani,Female,54,Operations,Executive,59387,10059.81,15,11.0,Chennai,Tamil Nadu,dbansal@example.org,9538687260,2021-07-23,Morning,Contract,1,3.1
+121, Zayyan ,Naik,Male,53,Finance,Team Lead,115890,15488.45,4,13.0,Mumbai,Maharashtra,ravalyoshita@example.org,9544599112,2019-11-28,Morning,Contract,0,4.0
+122,Turvi,Sachdev,Female,45,Sales,Assistant Manager,42895,6480.9,6,18.0,Lucknow,Uttar Pradesh,guhazarna@example.com,9447415720,2025-09-29,Morning,Contract,1,4.5
+123,Wishi,Sathe,Female,57,OPERATIONS,Manager,91952,9524.18,3,4.0,Gurgaon,Haryana,janiamara@example.net,9577424762,2025-02-23,Morning,Contract,0,3.4
+124,Bhavna,Sarma,Female,34,Operations,Executive,126663,23790.7,7,19.0,Mumbai,Maharashtra,bdara@example.net,9112203253,2016-10-14,Night,Contract,0,3.9
+125,Wriddhish,Dutt,Male,24,Marketing,Senior Executive,123316,27549.97,13,9.0,Noida,Uttar Pradesh,akshay86@example.org,9711328316,2024-11-30,Night,Contract,0,3.6
+126,Ishaan,Shenoy,Female,44,Customer Support,Manager,123278,29592.98,8,15.0,Mumbai,Maharashtra,dubewishi@example.net,9588096687,2018-05-19,Evening,Permanent,0,4.6
+127,Yashodhara,Mahajan,Female,42,IT,Team Lead,133572,22117.75,9,18.0,Kolkata,West Bengal,esubramanian@example.org,9787068091,2019-07-10,Evening,Permanent,0,3.0
+128,Maanav,Rajagopal,Female,26,IT,Senior Executive,139612,13972.07,8,12.0,Bangalore,Karnataka,yashodadeshpande@example.org,9660677400,2022-04-30,Morning,Contract,1,2.8
+129,Oeshi,Oak,Female,28,Operations,Executive,26056,4919.53,10,14.0,Chennai,Tamil Nadu,aarnav44@example.net,9037138177,2019-04-04,Morning,Permanent,1,3.8
+130,Vrishti,Dixit,Female,30,Finance,Assistant Manager,71030,12303.48,6,14.0,Delhi,Delhi,eyohannan@example.com,9801753931,2024-06-03,Evening,Permanent,1,3.9
+131,Krishna,Shah,Male,34,IT,Executive,136134,23331.38,9,17.0,Gurgaon,Haryana,ranbir39@example.com,9720894145,2020-03-18,Night,Permanent,0,4.8
+132,Nirja,Bassi,Male,55,Customer Support,Manager,80163,16236.63,11,6.0,Bangalore,Karnataka,urvashi66@example.net,9002007565,2018-07-13,Evening,Contract,0,2.7
+133,Max,Tandon,Male,26,Finance,Team Lead,35957,8420.59,9,17.0,Noida,Uttar Pradesh,dateyadavi@example.net,9536860678,2025-08-25,Morning,Permanent,1,4.8
+134,Harish,Sarraf,Male,40,Operations,Manager,104800,7743.53,1,6.0,Mumbai,Maharashtra,voratanmayi@example.org,9719577117,2020-03-15,Evening,Permanent,1,3.3
+135,Nimrat,Dubey,Female,57,IT,Manager,33371,4979.94,8,3.0,Ahmedabad,Gujarat,singhalka@example.com,9081178617,2017-01-03,Morning,Permanent,1,3.1
+136,Mitali,Buch,Female,32,Warehouse,Assistant Manager,145615,23381.83,4,2.0,Kolkata,West Bengal,lajita57@example.net,9229385160,2025-02-27,Morning,Permanent,0,2.7
+137,Ekapad,Keer,Male,56,IT,Team Lead,67899,3503.17,2,15.0,Kolkata,West Bengal,utkarsh16@example.org,9277239977,2015-03-03,Night,Permanent,1,2.5
+138,Harish,Sawhney,Female,21,Sales,Senior Executive,95981,4827.12,11,11.0,Ahmedabad,Gujarat,chandanibalakrishnan@example.org,9871524097,2025-05-03,Morning,Permanent,1,4.7
+139,Daksh,Memon,Female,58,Customer Support,Team Lead,85091,12856.02,2,4.0,Noida,Uttar Pradesh,kavya62@example.org,9054922387,2020-01-28,Night,Contract,0,3.6
+140,Nisha,Gole,Female,27,Marketing,Senior Executive,42840,3047.28,18,5.0,Chennai,Tamil Nadu,parthbrar@example.net,9445923211,2023-08-05,Night,Contract,1,3.0
+141,Wridesh,Tank,Female,43,Finance,Executive,118212,18050.02,7,13.0,Lucknow,Uttar Pradesh,vincentshenoy@example.net,9290447248,2021-01-24,Morning,Permanent,1,2.7
+142,Tripti,Kumer,Female,44,Finance,Senior Executive,132960,22133.15,12,3.0,Chennai,Tamil Nadu,shroffbhavna@example.net,9909168088,2018-11-17,Morning,Permanent,0,2.6
+143,Nakul,Borah,Male,45,Customer Support,Assistant Manager,90028,7612.9,0,14.0,Gurgaon,Haryana,lpai@example.com,9924166648,2023-11-09,Evening,Permanent,1,3.2
+144,Panini,Krishna,Female,36,Customer Support,Senior Executive,109233,22826.34,16,18.0,Bangalore,Karnataka,mmittal@example.com,9735495313,2025-06-05,Morning,Permanent,0,2.6
+145,Hredhaan,Khalsa,Female,27,Warehouse,Manager,55508,10067.65,5,8.0,Kolkata,West Bengal,kparmer@example.com,9577795939,2022-10-11,Morning,Permanent,1,4.0
+146,Chakrika,Bains,Male,57,Sales,Team Lead,149198,24262.84,18,5.0,Lucknow,Uttar Pradesh,amaharaj@example.net,9889510060,2026-06-15,Evening,Permanent,0,4.8
+147,Chandran,Taneja,Male,41,Finance,Team Lead,118970,6469.9,5,2.0,Chennai,Tamil Nadu,victor95@example.org,9788939313,2026-03-23,Morning,Permanent,0,4.5
+148,Ranveer,Krishna,Male,60,Warehouse,Senior Executive,117691,11139.15,17,12.0,Kolkata,West Bengal,gunbirbaral@example.com,9372107587,2025-05-21,Night,Permanent,1,4.0
+149,Bahadurjit,Patla,Male,30,HR,Manager,38645,7693.01,15,11.0,Gurgaon,Haryana,gautammerchant@example.com,9336986730,2022-01-21,Morning,Permanent,1,3.4
+150, Parth ,Iyer,Female,47,Sales,Executive,75585,17151.02,14,6.0,Mumbai,Maharashtra,jasmitwali@example.net,9833875724,2021-08-16,Morning,Contract,1,3.3
+151,Nitesh,Kurian,Male,31,Marketing,Team Lead,47296,7539.42,12,3.0,Mumbai,Maharashtra,vmerchant@example.com,9398746640,2019-03-12,Evening,Permanent,1,3.5
+152,Upadhriti,Borra,Female,27,IT,Team Lead,63980,8226.58,7,2.0,Noida,Uttar Pradesh,upkaarranganathan@example.net,9134266101,2016-07-07,Evening,Permanent,0,4.6
+153,Gautam,Rana,Female,26,Customer Support,Assistant Manager,89106,11361.5,8,18.0,Jaipur,Rajasthan,,9834242207,2020-10-11,Night,Permanent,1,4.2
+154, Adweta ,Raj,Female,24,Customer Support,Manager,54820,11713.99,17,13.0,Noida,Uttar Pradesh,hritik37@example.org,9969522380,2020-10-29,Night,Permanent,1,4.9
+155,Falak,Kant,Female,29,Finance,Senior Executive,52772,7107.07,6,2.0,Kolkata,West Bengal,shettychasmum@example.net,9281537805,2025-02-04,Night,Contract,0,3.8
+156,Jackson,Dey,Male,30,Customer Support,Executive,79321,13293.15,4,19.0,Delhi,Delhi,baraddaksha@example.com,9951253434,2021-07-03,Night,Contract,1,2.9
+157,Gunbir,Keer,Female,23,Finance,Manager,104777,23880.23,12,13.0,Ahmedabad,Gujarat,lipikasetty@example.com,9604233738,2016-07-13,Night,Permanent,1,2.8
+158,Oni,Dubey,Male,59,Warehouse,Team Lead,120525,10556.44,13,3.0,Kolkata,West Bengal,fchaudhary@example.net,9944530707,2025-12-18,Evening,Permanent,1,2.9
+159,Ati,Bali,Female,24,Sales,Senior Executive,29334,5600.65,14,12.0,Chennai,Tamil Nadu,teerth77@example.org,9343962449,2021-07-01,Evening,Contract,0,2.9
+160,Hardik,Pillai,Male,24,Marketing,Team Lead,28597,6313.2,12,6.0,Jaipur,Rajasthan,darsh64@example.org,9866240770,2020-09-22,Morning,Permanent,1,3.1
+161,Suhani,Chand,Female,43,IT,Team Lead,80549,8087.1,12,15.0,Gurgaon,Haryana,anshbedi@example.com,9356509985,2016-08-20,Night,Contract,0,4.2
+162,Jeremiah,Jha,Female,41,Marketing,Team Lead,61239,6260.43,20,9.0,Kolkata,West Bengal,johaltarak@example.org,9152088431,2018-09-13,Morning,Contract,0,3.1
+163,Manbir,Agate,Female,58,Customer Support,Assistant Manager,121564,25917.8,1,19.0,Ahmedabad,Gujarat,maanav28@example.com,9725796588,2020-02-23,Night,Permanent,0,2.7
+164,Imaran,Bal,Male,42,IT,Manager,124997,11806.05,5,3.0,Bangalore,Karnataka,alexanderparmar@example.org,9737322848,2017-07-11,Night,Permanent,0,4.7
+165,Ekiya,Babu,Male,47,Marketing,Assistant Manager,94446,21171.94,9,2.0,Noida,Uttar Pradesh,alkaben@example.org,9124594377,2024-07-29,Evening,Contract,1,3.3
+166,Ishaan,Bhatt,Female,31,Sales,Assistant Manager,60851,12346.47,6,19.0,Delhi,Delhi,xsen@example.com,9771444405,2021-09-19,Night,Contract,1,4.7
+167,Ikbal,Seth,Female,36,HR,Executive,113702,21456.13,0,8.0,Noida,Uttar Pradesh,calebverma@example.com,9315300945,2023-04-16,Night,Contract,0,4.7
+168,Azaan,Bhat,Male,31,Warehouse,Assistant Manager,72087,3880.08,6,13.0,Bangalore,Karnataka,bratti@example.net,9717513608,2022-05-08,Evening,Permanent,1,4.2
+169,Vritti,Sawhney,Female,45,Sales,Executive,79627,12697.04,14,4.0,Delhi,Delhi,buchekanta@example.net,9726041567,2016-05-23,Evening,Permanent,1,3.2
+170,Dominic,Date,Female,37,OPERATIONS,Senior Executive,104823,25642.22,6,17.0,Mumbai,Maharashtra,ekta69@example.net,9720429306,2017-01-29,Morning,Contract,1,4.9
+171,Sudiksha,Tiwari,Female,35,Marketing,Executive,143591,35572.26,8,15.0,Noida,Uttar Pradesh,ychaudhary@example.net,9208883641,2019-07-29,Morning,Permanent,1,4.2
+172,Tanveer,Sani,Male,60,Warehouse,Team Lead,142247,32104.45,14,9.0,Bangalore,Karnataka,akari@example.com,9331448644,2016-07-02,Morning,Permanent,1,4.2
+173,Mohini,Sagar,Male,51,Finance,Executive,79529,14766.84,18,19.0,Delhi,Delhi,munshiprisha@example.com,9676887844,2022-04-09,Evening,Contract,1,2.7
+174,Aadhya,Prasad,Female,57,Sales,Manager,125601,30844.98,18,8.0,Lucknow,Uttar Pradesh,urvibhavsar@example.org,9566474661,2025-11-14,Night,Permanent,1,4.1
+175,Girik,Sankaran,Female,25,Operations,Assistant Manager,138956,15858.6,5,16.0,Bangalore,Karnataka,pradhankalpit@example.net,9902642484,2016-01-04,Evening,Contract,0,2.8
+176,Forum,Das,Male,23,Sales,Executive,77879,12446.6,13,18.0,Kolkata,West Bengal,,9796856438,2015-07-30,Morning,Contract,0,3.9
+177,Bhavna,Muni,Male,28,Operations,Team Lead,118836,23988.71,14,4.0,Gurgaon,Haryana,hemang98@example.org,9036753184,2015-06-07,Night,Contract,1,3.1
+178,Vasatika,Kapur,Male,34,HR,Executive,146925,31575.77,12,15.0,Chennai,Tamil Nadu,pallajhalak@example.org,9714985746,2017-03-10,Night,Permanent,0,2.5
+179,Upkaar,Sanghvi,Male,32,Customer Support,Manager,88298,7481.49,16,19.0,Delhi,Delhi,lokeayush@example.org,9166384662,2019-04-18,Evening,Contract,0,3.6
+180,Dayamai,Nori,Male,40,Finance,Assistant Manager,103974,23096.94,16,18.0,Bangalore,Karnataka,abeer22@example.net,9262369695,2019-03-17,Night,Contract,1,4.4
+181,Nandini,Boase,Female,55,Operations,Manager,99794,22503.09,13,10.0,Noida,Uttar Pradesh,azaanchand@example.net,9850161712,2025-09-27,Evening,Permanent,1,4.2
+182,Tanveer,Puri,Male,49,HR,Manager,29234,5063.97,11,4.0,Jaipur,Rajasthan,vsetty@example.org,9752772693,2023-08-01,Night,Contract,1,2.5
+183,Devika,Nair,Male,35,HR,Manager,138881,27918.07,14,12.0,Jaipur,Rajasthan,bennachiket@example.org,9792161153,2020-11-07,Evening,Contract,0,2.8
+184,Chandran,Bumb,Female,30,IT,Executive,68327,5516.77,14,2.0,Gurgaon,Haryana,saanvi67@example.net,9576837507,2025-01-25,Night,Permanent,1,3.8
+185,Oeshi,Mahajan,Male,46,Finance,Assistant Manager,96182,11530.35,17,3.0,Noida,Uttar Pradesh,yauvanicomar@example.com,9632964576,2022-01-28,Morning,Contract,0,3.1
+186,Indrajit,Mander,Female,45,HR,Executive,114463,14556.85,10,4.0,Gurgaon,Haryana,qvyas@example.com,9057554263,2021-11-14,Morning,Permanent,1,4.9
+187,Thomas,Rana,Male,34,Sales,Executive,52627,11427.06,20,14.0,Noida,Uttar Pradesh,amblesamarth@example.com,9579769714,2015-05-01,Evening,Permanent,1,2.7
+188,Laksh,Kumer,Female,35,IT,Manager,34232,4502.42,18,9.0,Bangalore,Karnataka,falak10@example.com,9640656675,2018-02-24,Night,Permanent,0,4.8
+189,Parth,Dayal,Male,39,IT,Team Lead,104503,13196.92,2,15.0,Mumbai,Maharashtra,twalia@example.org,9451375916,2021-11-18,Night,Contract,1,3.9
+190,Irya,Bora,Male,57,Finance,Executive,30475,3925.68,0,20.0,Noida,Uttar Pradesh,bbasak@example.org,9379346512,2023-01-25,Evening,Permanent,1,3.0
+191,Faras,Munshi,Male,56,Sales,Manager,85458,9240.62,20,3.0,Gurgaon,Haryana,travel@example.net,9215936220,2022-05-18,Morning,Contract,0,3.6
+192,Bimala,Contractor,Female,57,IT,Manager,44974,9513.8,18,12.0,Gurgaon,Haryana,ubail@example.org,9137762363,2021-08-30,Evening,Contract,0,3.4
+193,Triveni,Pathak,Male,59,Operations,Manager,39264,8573.63,5,3.0,Jaipur,Rajasthan,sarkarhitesh@example.org,9817678868,2025-01-26,Night,Contract,1,4.8
+194,Nandini,Viswanathan,Male,51,IT,Manager,142176,17510.93,17,5.0,Noida,Uttar Pradesh,randhawadayita@example.net,9858150302,2021-12-20,Night,Permanent,1,3.6
+195,Timothy,Nath,Male,23,Finance,Assistant Manager,148099,29959.61,11,8.0,Bangalore,Karnataka,farajuppal@example.net,9030293440,2020-05-01,Night,Contract,1,4.3
+196,Yashvi,Hari,Female,57,IT,Team Lead,100842,12638.72,17,6.0,Noida,Uttar Pradesh,indali23@example.org,9368539538,2016-06-30,Evening,Contract,1,3.8
+197,Aahana,Hora,Male,53,Operations,Senior Executive,55145,5090.07,2,9.0,Bangalore,Karnataka,,9168643164,2017-01-17,Night,Permanent,0,2.6
+198,Wakeeta,Shetty,Male,29,Finance,Manager,102640,5936.51,5,17.0,Delhi,Delhi,onaidu@example.com,9021955076,2025-03-28,Evening,Permanent,1,3.6
+199,Ria,Bir,Male,59,Operations,Senior Executive,53752,11230.04,13,5.0,Kolkata,West Bengal,osathe@example.com,9651695031,2017-02-15,Morning,Permanent,0,4.6
+200,Daksh,Pandey,Male,59,Marketing,Senior Executive,-50000,19707.03,19,2.0,Gurgaon,Haryana,mukherjeetriya@example.com,9069509644,2019-03-25,Morning,Contract,1,4.8
+201,Dakshesh,Pillay,Female,27,Customer Support,Team Lead,102207,7847.11,18,14.0,Kolkata,West Bengal,faraj19@example.net,9790552070,2015-03-13,Night,Permanent,1,3.4
+202,Leena,Shere,Female,30,Warehouse,Assistant Manager,72483,13069.79,3,14.0,Chennai,Tamil Nadu,senguptaraghav@example.com,9255693255,2023-03-08,Morning,Contract,0,3.1
+203,Vamakshi,Thaker,Male,28,Warehouse,Assistant Manager,121440,16918.9,4,8.0,Jaipur,Rajasthan,davidseshadri@example.org,9157866036,2024-11-06,Morning,Permanent,0,4.8
+204,Frado,Thaman,Female,44,Marketing,Executive,59483,10219.52,7,3.0,Ahmedabad,Gujarat,,9946290714,2020-05-26,Morning,Permanent,0,3.0
+205,Reva,Viswanathan,Male,44,HR,Manager,47214,8545.91,1,8.0,Gurgaon,Haryana,janujapradhan@example.com,9023642079,2022-01-02,Night,Contract,0,3.4
+206,Nilima,Nigam,Male,46,HR,Manager,50496,2571.78,14,19.0,Jaipur,Rajasthan,nattdominic@example.com,9410298988,2021-02-23,Night,Contract,0,4.9
+207,Libni,Mander,Male,50,Operations,Senior Executive,124283,28498.68,10,15.0,Gurgaon,Haryana,mason51@example.net,9423727843,2016-03-01,Night,Permanent,0,3.1
+208,Lohit,Palla,Male,32,Customer Support,Team Lead,34965,3943.16,17,16.0,Mumbai,Maharashtra,manya29@example.net,9829694178,2025-11-05,Morning,Permanent,1,4.6
+209,Dayita,Puri,Female,28,Warehouse,Senior Executive,127097,23533.59,3,3.0,Gurgaon,Haryana,joshua81@example.net,9675046498,2015-12-31,Evening,Contract,1,5.0
+210,Pallavi,Trivedi,Female,29,IT,Assistant Manager,54110,8395.01,18,2.0,Noida,Uttar Pradesh,andrew54@example.org,9455361964,2025-12-18,Night,Permanent,1,4.2
+211,Harita,Sunder,Male,37,Marketing,Team Lead,72395,11562.4,19,6.0,Ahmedabad,Gujarat,upkaardevan@example.org,9293144734,2018-03-14,Evening,Permanent,1,4.9
+212,Chakrika,Chaudhuri,Male,56,Marketing,Team Lead,130393,28850.98,7,14.0,Chennai,Tamil Nadu,nayarkaran@example.net,9191814985,2015-11-14,Night,Contract,0,3.3
+213,Mitesh,Gaba,Female,24,Sales,Assistant Manager,37972,8079.06,5,7.0,Noida,Uttar Pradesh,noahsarma@example.org,9807235834,2020-12-18,Evening,Permanent,1,4.9
+214,Janya,Khanna,Female,52,Warehouse,Team Lead,113236,25809.48,16,15.0,Jaipur,Rajasthan,wmane@example.net,9649869464,2021-07-18,Morning,Permanent,1,3.4
+215,Vivaan,Walla,Female,59,Warehouse,Team Lead,118117,12313.65,8,13.0,Lucknow,Uttar Pradesh,dayamaisingh@example.org,9797541812,2022-03-12,Evening,Permanent,1,2.9
+216,Ridhi,Shenoy,Female,56,Marketing,Executive,147787,8168.63,15,2.0,Mumbai,Maharashtra,lavanya88@example.com,9591609327,2020-10-24,Evening,Permanent,1,3.8
+217,Ryan,Devi,Female,41,Sales,Executive,111972,16061.12,11,16.0,Bangalore,Karnataka,charles75@example.net,9519554784,2017-04-24,Night,Contract,0,3.7
+218,Zaitra,Dash,Male,47,Marketing,Assistant Manager,65352,5302.89,11,9.0,Chennai,Tamil Nadu,fiyaz24@example.com,9088340994,2016-04-20,Morning,Contract,0,4.0
+219,Manan,Sarkar,Female,48,Warehouse,Senior Executive,78967,7895.06,17,13.0,Delhi,Delhi,kapadiashravya@example.com,9820657662,2023-04-16,Night,Contract,0,3.0
+220,Oeshi,Bera,Female,50,Finance,Senior Executive,62957,8848.82,3,20.0,Mumbai,Maharashtra,xthakkar@example.org,9100511277,2015-01-04,Morning,Permanent,1,2.5
+221,Finn,Prasad,Male,44,Warehouse,Assistant Manager,65838,12468.86,15,15.0,Chennai,Tamil Nadu,ayaannagar@example.org,9389070418,2021-02-15,Evening,Permanent,1,4.9
+222,Gautami,Dhingra,Male,33,Customer Support,Assistant Manager,57396,11310.72,1,15.0,Chennai,Tamil Nadu,balvanmangat@example.com,9594633609,2025-08-12,Night,Permanent,0,3.7
+223,Liam,Singh,Female,34,HR,Team Lead,141328,13736.12,1,4.0,Jaipur,Rajasthan,fahluwalia@example.org,9312170074,2026-05-26,Night,Permanent,0,4.4
+224,Tanveer,Doctor,Male,42,Finance,Assistant Manager,36980,2291.1,19,2.0,Chennai,Tamil Nadu,xchoudhry@example.com,9771297784,2018-11-29,Morning,Permanent,0,3.4
+225,Charvi,Dara,Female,56,IT,Executive,88609,14048.67,14,10.0,Bangalore,Karnataka,khareoni@example.net,9113728950,2018-08-07,Morning,Contract,0,4.5
+226,Tanvi,Bhatnagar,Male,53,Warehouse,Assistant Manager,25094,4936.78,20,13.0,Noida,Uttar Pradesh,tataamol@example.net,9636309816,2025-02-25,Night,Permanent,0,3.3
+227,Wyatt,Dhawan,Male,23,Marketing,Executive,93576,8022.06,2,5.0,Lucknow,Uttar Pradesh,,9240586572,2023-04-29,Evening,Permanent,1,2.5
+228,Omaja,Grover,Female,24,Operations,Executive,86349,13954.34,20,12.0,Chennai,Tamil Nadu,viswanathanjalsa@example.org,9870657802,2018-08-25,Night,Permanent,1,4.3
+229,Yashica,Tripathi,Male,36,Customer Support,Senior Executive,50312,8807.87,16,19.0,Noida,Uttar Pradesh,ramakrishnanupma@example.org,9557756741,2023-07-04,Morning,Contract,0,4.1
+230,Lila,Prakash,Female,56,Operations,Team Lead,143290,31376.33,10,11.0,Noida,Uttar Pradesh,amol51@example.com,9747652792,2025-05-15,Evening,Contract,0,2.5
+231,Hemang,Natarajan,Male,29,IT,Manager,27136,1392.45,16,10.0,Delhi,Delhi,chaitanyapandey@example.net,9237989555,2018-08-29,Morning,Permanent,0,3.4
+232,Parth,Shetty,Female,36,IT,Team Lead,141604,14337.23,18,8.0,Bangalore,Karnataka,zgopal@example.org,9039777186,2020-04-25,Night,Permanent,0,2.6
+233,Tanvi,Bansal,Female,42,Customer Support,Executive,127252,28753.67,1,12.0,Gurgaon,Haryana,saksham03@example.org,9488266073,2015-08-19,Evening,Permanent,0,3.8
+234,Dayita,Varma,Female,30,Warehouse,Manager,116457,21512.76,7,2.0,Bangalore,Karnataka,,9975047134,2019-12-05,Night,Permanent,0,3.2
+235,Rayaan,Mangal,Female,51,Customer Support,Senior Executive,124881,11192.05,4,18.0,Ahmedabad,Gujarat,champak54@example.org,9616720739,2025-07-24,Morning,Permanent,0,3.6
+236,Rajeshri,Ratta,Female,22,HR,Team Lead,70157,5882.74,19,10.0,Lucknow,Uttar Pradesh,vraju@example.org,9694108137,2020-10-25,Morning,Permanent,1,3.1
+237,Widisha,Pillai,Male,28,Finance,Team Lead,26800,3752.33,10,10.0,Gurgaon,Haryana,fitan61@example.com,9372575696,2022-12-31,Night,Permanent,0,4.0
+238,Pranit,Memon,Female,39,Sales,Team Lead,47324,9835.71,1,7.0,Noida,Uttar Pradesh,harshil15@example.net,9060328680,2024-10-21,Night,Contract,1,4.9
+239,Damini,Sehgal,Female,55,Marketing,Team Lead,88525,7726.77,19,3.0,Noida,Uttar Pradesh,sganesan@example.com,9570934706,2019-08-03,Evening,Contract,1,5.0
+240,Sanya,Basak,Female,45,IT,Executive,107023,25560.02,8,1.0,Noida,Uttar Pradesh,radhika40@example.org,9233175686,2020-07-15,Evening,Permanent,1,3.6
+241,Nidra,Patla,Male,34,Warehouse,Assistant Manager,96071,15967.59,4,5.0,Jaipur,Rajasthan,azaandhar@example.net,9837519919,2025-12-22,Morning,Contract,1,3.9
+242,Raksha,Banerjee,Female,22,Finance,Team Lead,135037,30521.92,4,11.0,Mumbai,Maharashtra,ekalingakeer@example.net,9937867111,2026-02-03,Morning,Contract,1,4.0
+243,Janaki,Rajagopal,Female,29,Sales,Team Lead,35417,7764.39,15,17.0,Chennai,Tamil Nadu,dubeshivani@example.com,9738411070,2020-10-15,Evening,Contract,1,4.4
+244,Sachi,Bose,Female,60,HR,Executive,48209,9042.68,14,16.0,Chennai,Tamil Nadu,jeevikarao@example.com,9847687395,2020-11-19,Night,Permanent,1,3.6
+245, Arya ,Krish,Male,23,HR,Manager,95499,12174.17,12,18.0,Delhi,Delhi,balquincy@example.com,9148721296,2025-08-10,Morning,Contract,0,2.7
+246,Lila,Dalal,Female,55,Marketing,Senior Executive,127069,16342.77,18,5.0,Noida,Uttar Pradesh,abha73@example.net,9415724269,2023-05-14,Morning,Permanent,1,2.8
+247,Vritti,Iyengar,Female,53,Warehouse,Executive,93657,22473.07,12,20.0,Kolkata,West Bengal,deshmukhethan@example.com,9501388117,2019-06-01,Morning,Contract,0,3.3
+248,Sai,Chahal,Female,33,IT,Senior Executive,40408,7051.68,4,1.0,Kolkata,West Bengal,idika18@example.net,9044864264,2017-06-29,Evening,Permanent,1,3.1
+249,Charita,Dugar,Male,34,IT,Manager,107396,9340.02,17,2.0,Noida,Uttar Pradesh,janakitrivedi@example.org,9608682904,2019-07-01,Morning,Permanent,0,4.0
+250,Sai,Dewan,Female,44,Finance,Assistant Manager,123216,8455.73,18,2.0,Gurgaon,Haryana,wakeetabal@example.com,9388780418,2016-08-15,Evening,Contract,1,4.2
+251,Jyoti,Sibal,Female,54,Sales,Executive,99890,14657.12,20,3.0,Gurgaon,Haryana,gabrielbhatti@example.com,9482569647,2023-12-25,Evening,Contract,1,4.7
+252,Varenya,Vora,Male,22,IT,Senior Executive,25207,4413.55,3,15.0,Chennai,Tamil Nadu,krout@example.org,9726403826,2021-05-01,Night,Contract,0,4.5
+253,Edhitha,Borah,Female,21,IT,Manager,97088,18171.69,10,4.0,Jaipur,Rajasthan,rshukla@example.net,9359818944,2016-09-08,Morning,Permanent,0,2.9
+254,Kabir,Gopal,Female,24,Warehouse,Assistant Manager,127759,14036.72,13,17.0,Kolkata,West Bengal,rachitathakkar@example.org,9505397018,2020-06-01,Evening,Contract,1,3.9
+255,Zarna,Dua,Male,41,Finance,Manager,40315,4204.83,9,2.0,Ahmedabad,Gujarat,nitesh25@example.net,9424923177,2016-09-01,Morning,Contract,1,4.5
+256,Hiral,Venkataraman,Male,54,Finance,Senior Executive,69579,14271.12,15,10.0,Noida,Uttar Pradesh,farhan43@example.net,9709592038,2018-05-24,Morning,Permanent,0,4.8
+257,Anvi,Dass,Female,27,Marketing,Team Lead,86194,17517.73,1,17.0,Gurgaon,Haryana,girik82@example.net,9076222576,2023-12-05,Evening,Permanent,1,3.2
+258,Mitesh,Garg,Female,56,Marketing,Senior Executive,96110,10015.66,11,11.0,Delhi,Delhi,benjamin01@example.org,9513850090,2024-06-08,Evening,Permanent,1,3.6
+259,Alka,Kade,Male,42,Operations,Manager,71612,13791.02,9,7.0,Bangalore,Karnataka,fbalasubramanian@example.net,9974189446,2025-06-20,Night,Contract,0,3.1
+260, Bimala ,Mittal,Female,46,FINANCE,Manager,58823,11171.84,11,6.0,Chennai,Tamil Nadu,zkonda@example.net,9784043417,2023-11-03,Night,Permanent,1,3.5
+261,Chameli,Setty,Female,40,Warehouse,Manager,110124,15659.08,2,18.0,Mumbai,Maharashtra,bhasinnakul@example.com,9221402649,2021-06-19,Night,Contract,1,2.9
+262,Veda,Shetty,Female,50,Operations,Executive,102616,16522.98,19,11.0,Mumbai,Maharashtra,harinidhawan@example.com,9190187346,2021-08-17,Morning,Permanent,1,4.7
+263,Hemani,Rastogi,Female,39,Finance,Senior Executive,84372,14606.01,17,13.0,Delhi,Delhi,kamalavarma@example.net,9163593949,2019-12-28,Evening,Permanent,1,4.0
+264,Eiravati,Khurana,Male,24,Customer Support,Senior Executive,-50000,31479.39,9,12.0,Noida,Uttar Pradesh,rdas@example.com,12345,2016-05-12,Night,Contract,0,3.5
+265,Lohit,Chatterjee,Female,33,HR,Senior Executive,87242,11072.67,4,18.0,Noida,Uttar Pradesh,mannanleena@example.net,9819610074,2018-10-10,Evening,Permanent,1,2.8
+266,Yuvraj,Dutta,Female,60,Operations,Manager,146937,20700.32,13,6.0,Ahmedabad,Gujarat,dhriti32@example.com,9543165825,2021-09-02,Evening,Contract,1,4.9
+267,Unni,Tara,Female,51,Operations,Team Lead,39832,3123.53,18,3.0,Gurgaon,Haryana,,9408047906,2023-04-25,Night,Contract,1,4.8
+268,Tanvi,Khosla,Female,51,Sales,Assistant Manager,84511,16628.63,16,19.0,Noida,Uttar Pradesh,irabava@example.org,9392165372,2023-02-26,Night,Contract,1,3.9
+269,Warda,Singhal,Female,29,Sales,Team Lead,88538,5787.95,2,17.0,Jaipur,Rajasthan,abhiram16@example.org,9262276976,2019-05-06,Evening,Permanent,0,4.5
+270,Jasmit,Rau,Male,23,Operations,Senior Executive,129775,32030.33,16,11.0,Chennai,Tamil Nadu,chakradev60@example.net,9588743671,2019-01-21,Night,Contract,1,4.1
+271,Robert,Patil,Male,51,Sales,Senior Executive,85819,12465.49,12,10.0,Mumbai,Maharashtra,ethan68@example.com,9374180946,2024-02-12,Night,Permanent,1,4.8
+272,Ati,Dani,Male,38,Customer Support,Manager,145329,15123.69,20,11.0,Lucknow,Uttar Pradesh,gunbirramesh@example.com,9254626756,2023-11-29,Morning,Contract,1,4.2
+273,Jasmit,Dhawan,Female,27,Sales,Assistant Manager,37805,4548.07,16,15.0,Mumbai,Maharashtra,yashodhararatti@example.net,9206058251,2020-04-29,Morning,Permanent,1,3.4
+274,Chakradev,Barad,Male,37,Finance,Executive,116180,16659.18,5,10.0,Gurgaon,Haryana,gaurisom@example.net,9692497310,2015-03-30,Morning,Contract,0,3.3
+275,Manthan,Varma,Male,25,IT,Team Lead,48321,11881.38,14,16.0,Delhi,Delhi,falaknagar@example.org,9614172697,2022-05-01,Morning,Permanent,1,2.7
+276,Chandani,Nayar,Female,30,Operations,Executive,142507,33714.13,15,1.0,Jaipur,Rajasthan,emistry@example.org,9279559448,2021-03-29,Morning,Permanent,1,3.5
+277,Garima,Choudhary,Male,42,Marketing,Manager,95163,12382.89,11,10.0,Kolkata,West Bengal,ymorar@example.net,9383872259,2020-10-27,Night,Permanent,0,4.2
+278,Avi,Som,Male,49,Warehouse,Assistant Manager,36123,2817.18,20,7.0,Mumbai,Maharashtra,vedant09@example.com,9092376498,2026-04-06,Morning,Permanent,0,2.6
+279,Lajita,Divan,Male,54,Customer Support,Executive,52745,12554.26,20,15.0,Delhi,Delhi,azadchoudhary@example.org,9720740962,2017-06-16,Night,Permanent,1,2.9
+280,Ridhi,Murthy,Male,31,IT,Executive,84793,5324.28,19,19.0,Delhi,Delhi,adoshi@example.net,9156023874,2014-11-17,Morning,Permanent,0,4.6
+281,Nirja,Thaker,Female,25,Sales,Manager,47734,5001.51,10,4.0,Chennai,Tamil Nadu,tbhatia@example.org,9131251763,2018-01-09,Morning,Permanent,0,2.7
+282,Sarthak,Nair,Female,58,Finance,Executive,117633,15673.94,20,10.0,Delhi,Delhi,yvora@example.com,9626549601,2023-05-19,Evening,Permanent,0,3.4
+283,Tripti,Walia,Male,27,HR,Senior Executive,40401,4944.28,16,20.0,Delhi,Delhi,irya49@example.com,9462011894,2017-07-03,Morning,Permanent,1,4.1
+284,Yatin,Mallick,Male,60,HR,Assistant Manager,57949,3399.49,10,15.0,Jaipur,Rajasthan,umang44@example.net,9917418753,2017-10-29,Morning,Contract,1,4.4
+285,Vrinda,Nadig,Male,33,HR,Executive,56079,12801.32,13,13.0,Lucknow,Uttar Pradesh,jpalla@example.net,9448194317,2018-01-30,Night,Contract,0,3.0
+286,Bhavna,Dara,Female,29,Sales,Manager,32818,7230.8,8,4.0,Bangalore,Karnataka,wrana@example.org,9472217995,2019-03-18,Night,Permanent,1,3.5
+287,Brijesh,Mani,Female,50,Operations,Senior Executive,102539,5424.39,15,9.0,Noida,Uttar Pradesh,palriya@example.net,9723585150,2019-07-01,Morning,Permanent,0,4.3
+288,Varenya,Kala,Male,51,SALES,Assistant Manager,94615,13292.3,12,4.0,Noida,Uttar Pradesh,anikamagar@example.org,9076423290,2018-12-02,Night,Contract,1,4.3
+289,Wriddhish,Kibe,Female,46,Sales,Assistant Manager,85786,17841.06,4,6.0,Gurgaon,Haryana,waliupkaar@example.net,9670636527,2016-05-31,Night,Permanent,1,4.1
+290,Charles,Chaudhry,Female,24,Sales,Manager,148905,18850.03,11,4.0,Lucknow,Uttar Pradesh,tnarayanan@example.com,9631507292,2018-07-08,Morning,Contract,1,4.4
+291,Laksh,Ahluwalia,Male,53,Warehouse,Team Lead,142693,15043.99,8,14.0,Chennai,Tamil Nadu,niharikasoni@example.com,9345845884,2016-04-07,Evening,Permanent,1,4.7
+292,Ryan,Mani,Female,39,Marketing,Executive,76207,5477.22,5,3.0,Kolkata,West Bengal,bhavika01@example.net,12345,2025-08-16,Evening,Contract,0,3.6
+293,Vincent,Warrior,Female,35,IT,Senior Executive,33250,5949.57,0,17.0,Delhi,Delhi,gillomisha@example.org,9567465545,2024-04-28,Evening,Permanent,0,3.1
+294,Mekhala,Tandon,Male,39,IT,Executive,44443,10721.55,11,15.0,Lucknow,Uttar Pradesh,bimalabarad@example.org,9729866120,2015-03-05,Evening,Permanent,0,3.2
+295,Hredhaan,Nayak,Female,41,HR,Manager,117685,9366.41,1,12.0,Bangalore,Karnataka,suhani88@example.com,9513944143,2019-08-20,Morning,Contract,0,3.7
+296,Yamini,Sidhu,Male,42,Finance,Manager,120491,23655.77,14,4.0,Jaipur,Rajasthan,reyansh15@example.org,9153484006,2016-11-02,Night,Permanent,0,3.0
+297,Aarini,Grewal,Male,33,Operations,Executive,92081,10455.94,12,16.0,Mumbai,Maharashtra,nazarethchakrika@example.net,9931833239,2022-05-13,Night,Permanent,1,4.3
+298,Reyansh,Gill,Male,48,Customer Support,Assistant Manager,62831,4895.39,5,14.0,Kolkata,West Bengal,gsane@example.com,9139539530,2026-01-11,Night,Contract,0,2.9
+299,Nandini,Chandran,Female,39,Finance,Senior Executive,49380,7314.02,12,18.0,Kolkata,West Bengal,logansood@example.com,9835400298,2016-01-12,Evening,Permanent,0,3.5
+300,Abeer,Lal,Female,52,HR,Executive,40644,6900.47,8,3.0,Kolkata,West Bengal,ckeer@example.com,9558646155,2018-10-11,Evening,Permanent,1,2.9
+204,Frado,Thaman,Female,44,Marketing,Executive,59483,10219.52,7,3.0,Ahmedabad,Gujarat,,9946290714,2020-05-26,Morning,Permanent,0,3.0
+267,Unni,Tara,Female,51,Operations,Team Lead,39832,3123.53,18,3.0,Gurgaon,Haryana,,9408047906,2023-04-25,Night,Contract,1,4.8
+153,Gautam,Rana,Female,26,Customer Support,Assistant Manager,89106,11361.5,8,18.0,Jaipur,Rajasthan,,9834242207,2020-10-11,Night,Permanent,1,4.2
+10,Ekbal,Garg,Female,27,Operations,Executive,113259,7035.94,20,,Ahmedabad,Gujarat,,9811511480,2026-03-09,Night,Permanent,1,4.1
+234,Dayita,Varma,Female,30,Warehouse,Manager,116457,21512.76,7,2.0,Bangalore,Karnataka,,9975047134,2019-12-05,Night,Permanent,0,3.2

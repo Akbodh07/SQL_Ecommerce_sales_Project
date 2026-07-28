@@ -1,0 +1,104 @@
+supplier_id,supplier_name,contact_person,email,phone,city,state,country,gst_number,supplier_type,payment_terms,established_year,years_of_business,supplier_rating,total_products,international_supplier,average_delivery_days,annual_business,website,is_active
+1,"Choudhury, Bakshi and Maharaj",Udant Dewan,contact1@supplier.com,9022768040,Mumbai,Maharashtra,India,16GPOSS4428Y1Z5,Wholesaler,45 Days,2020,11,3.7,2857,Yes,48,6384122,http://www.sami.com/,1
+2,Kaul PLC,Rushil Saini,contact2@supplier.com,9868759358,Jaipur,Rajasthan,India,29XJEBR7988M1Z5,Distributor,45 Days,2021,8,4.1,1816,No,360,1207935,http://mall.biz/,1
+3,Mall-Dugal,Gayathri Chaudry,contact3@supplier.com,9713965687,Noida,Uttar Pradesh,India,17VUKBX5724U1Z5,Importer,15 Days,2018,7,3.9,4698,No,300,7197926,http://parmer.org/,0
+4,Bassi-Sharaf,Kritika Brar,contact4@supplier.com,9295001674,Jaipur,Rajasthan,India,12KPMGO9618Y1Z5,Distributor,30 Days,2013,12,4.2,3816,Yes,135,8408441,https://handa.com/,1
+5,Buch-Kaul,Lajita Mall,contact5@supplier.com,9982661757,Noida,Uttar Pradesh,India,26XPMCJ9822S1Z5,Manufacturer,Advance,2025,29,3.6,4463,Yes,66,7983915,https://prabhakar.com/,1
+6,"Loke, Bora and Garg",Nihal Shere,contact6@supplier.com,9569976736,Ahmedabad,Gujarat,India,21LNDFI5220U1Z5,Manufacturer,15 Days,2012,4,4.8,680,Yes,143,8153903,https://kanda.com/,1
+7,Mutti Group,Dominic Kakar,contact7@supplier.com,9195478104,Noida,Uttar Pradesh,India,23KWBQQ0781G1Z5,Wholesaler,60 Days,2024,7,4.1,2381,No,128,1274748,https://www.tata.com/,0
+8,Dewan-Koshy,Priya Rastogi,contact8@supplier.com,9065007244,Noida,Uttar Pradesh,India,37KBJZG7449Z1Z5,Importer,15 Days,2016,12,3.8,579,Yes,161,969074,https://www.upadhyay.com/,1
+9,Choudhary and Sons,Pahal Bhatt,contact9@supplier.com,9495058008,Gurgaon,Haryana,India,22DXGPQ4559G1Z5,Distributor,15 Days,2018,15,3.7,2557,No,162,1227071,https://sidhu.net/,1
+10,Contractor Ltd,Harini Choudhury,contact10@supplier.com,9650551302,Kolkata,West Bengal,India,19EVSPZ6082V1Z5,Manufacturer,15 Days,2018,6,4.8,4632,Yes,140,4737085,https://setty.com/,1
+11,"Gokhale, Tripathi and Cherian",Yashica Issac,contact11@supplier.com,9262498042,Jaipur,Rajasthan,India,10IDZEL7519W1Z5,Wholesaler,60 Days,2011,29,4.1,4626,Yes,221,2148181,http://zacharia.com/,1
+12,"Naik, Suresh and Bahl",Janani Mohanty,contact12@supplier.com,9399036635,Ahmedabad,Gujarat,India,37KQEYW9880X1Z5,Distributor,45 Days,2017,11,3.7,985,No,20,7906868,http://www.brar.info/,1
+13,Walia and Sons,Vaishnavi Gandhi,contact13@supplier.com,9843720138,Chennai,Tamil Nadu,India,34HQKZN9191I1Z5,Manufacturer,Advance,2023,14,4.6,2669,No,311,8590255,https://zacharia.com/,1
+14,"Muni, Rastogi and Prakash",Zansi Seth,contact14@supplier.com,9810458697,Lucknow,Uttar Pradesh,India,16JBRII8733N1Z5,Distributor,45 Days,2019,20,3.7,3544,No,347,2929694,http://www.bhatt.com/,0
+15,"Karpe, Kannan and Amble",Daniel Karnik,contact15@supplier.com,9502456442,Lucknow,Uttar Pradesh,India,25UYTRH6609H1Z5,Distributor,15 Days,2016,7,3.5,2105,No,313,1231854,http://www.bobal-varkey.com/,0
+16,Sunder-Kala,Urvashi Kibe,contact16@supplier.com,12345,Lucknow,Uttar Pradesh,India,13UFUSM5911O1Z5,Distributor,45 Days,2023,29,4.9,3752,Yes,244,7560917,https://chandra.biz/,0
+17,Sampath-Roy,Chatura Chaudhari,contact17@supplier.com,9827424723,Chennai,Tamil Nadu,India,27CDJDF4340N1Z5,Importer,60 Days,2010,30,4.8,4816,No,245,108919,http://nori.com/,0
+18,Yadav Group,Pahal Goswami,contact18@supplier.com,12345,Ahmedabad,Gujarat,India,23MKRUS8995M1Z5,Manufacturer,Advance,2023,7,4.8,1588,Yes,134,6370307,https://borra.net/,0
+19,Bedi Ltd,Girik Khalsa,contact19@supplier.com,9438294847,Chennai,Tamil Nadu,India,11ZJQUQ7910E1Z5,Wholesaler,15 Days,2025,24,3.7,1885,No,359,4309055,http://srivastava-kala.biz/,0
+20,Gala Group,Madhavi Lanka,contact20@supplier.com,9697713595,Bangalore,Karnataka,India,22KSBRQ1786D1Z5,Manufacturer,30 Days,2023,24,4.1,4244,No,7,7057416,https://sur-dubey.com/,0
+21,Kalla-Bhardwaj,Dipta Bhandari,contact21@supplier.com,9438411566,Mumbai,Maharashtra,India,27UMVPI2924Y1Z5,Importer,60 Days,2022,13,3.5,2762,Yes,250,3568780,http://wali.net/,0
+22,Grewal Inc,Wahab Raval,contact22@supplier.com,9387209074,Ahmedabad,Gujarat,India,34GMSLA2426L1Z5,Importer,60 Days,2021,16,5,4608,No,181,7622582,http://www.baral.org/,0
+23,"Virk, Mutti and Lal",Dipta Khare,contact23@supplier.com,9211157124,Ahmedabad,Gujarat,India,33PTPZV2337E1Z5,Distributor,Advance,2011,20,3.9,1134,No,53,215779,https://mital.com/,0
+24,Andra Group,Ethan Yogi,contact24@supplier.com,9439281045,Kolkata,West Bengal,India,31BDOHZ1767H1Z5,Importer,45 Days,2024,12,4.8,3612,No,292,1020496,http://palla.com/,1
+25,Mane-Dugar,Chasmum Wadhwa,contact25@supplier.com,9620251464,Chennai,Tamil Nadu,India,11GSSLR9766G1Z5,Importer,Advance,2017,23,3.7,2276,Yes,37,1010560,http://chawla.com/,1
+26,Dugal LLC,Shivansh Oza,contact26@supplier.com,9589443425,Ahmedabad,Gujarat,India,24CBLIG0985A1Z5,Distributor,60 Days,2011,27,4.6,3954,No,143,3054882,http://suresh.com/,0
+27," Sampath, Malhotra and Basu ",Gauri De,contact27@supplier.com,9944311446,Kolkata,West Bengal,India,22VOLII9459V1Z5,Importer,45 Days,2011,9,4.3,4183,No,27,3425140,https://www.sathe.com/,0
+28,Dixit PLC,Kala Divan,contact28@supplier.com,9128406773,Noida,Uttar Pradesh,India,10OCZXL1847Q1Z5,Distributor,45 Days,2025,18,3.9,4615,Yes,197,3207911,https://www.morar.com/,1
+29, Kade-Krish ,Irya Ray,contact29@supplier.com,9274958225,Mumbai,Maharashtra,India,31MDOIO5431W1Z5,Wholesaler,60 Days,2022,10,4.8,3465,Yes,163,7945224,http://www.goel.com/,0
+30,Natarajan Group,Amara Dutta,contact30@supplier.com,9976191931,Lucknow,Uttar Pradesh,India,37LNLSK6149K1Z5,Importer,Advance,2020,30,4.5,4471,No,163,8196400,http://singhal.com/,1
+31,Palla-Mody,Udant Bajwa,contact31@supplier.com,9069974068,Gurgaon,Haryana,India,24EHAIB3424V1Z5,Wholesaler,15 Days,2015,5,4.4,3233,Yes,255,9793753,http://mallick-boase.com/,1
+32,Upadhyay-Ratta,Ayaan D’Alia,contact32@supplier.com,9422089614,Chennai,Tamil Nadu,India,21ZHZRL3981M1Z5,Distributor,60 Days,2019,25,3.9,3342,No,5,9504713,https://www.lanka.org/,1
+33,Pai-Murthy,Yasti D’Alia,contact33@supplier.com,9789728212,Gurgaon,Haryana,India,34SRVQX6345X1Z5,Wholesaler,Advance,2019,13,4.6,1538,Yes,68,9059760,https://www.basu-sarin.com/,0
+34,"Yohannan, Hegde and Patla",Ekaraj Narayanan,contact34@supplier.com,9521999288,Noida,Uttar Pradesh,India,24ZDZWS9983Z1Z5,Importer,Advance,2018,20,3.7,3119,No,300,6402547,https://www.mital.biz/,0
+35,Rau-Merchant,Rehaan Salvi,contact35@supplier.com,9646936664,Mumbai,Maharashtra,India,32HKDYH4081O1Z5,Distributor,60 Days,2023,21,4.6,1365,No,336,1671307,https://www.mitra.com/,0
+36,Kade-Sani,Udyati Sathe,contact36@supplier.com,9490349806,Gurgaon,Haryana,India,27XQBHZ9802U1Z5,Manufacturer,Advance,2020,10,5,4725,Yes,36,9308063,https://www.solanki.com/,1
+37,"Nayak, Chander and Keer",Umang Issac,contact37@supplier.com,9283190811,Gurgaon,Haryana,India,18UCWDJ7502E1Z5,Importer,60 Days,2013,26,3.6,3772,No,263,9970063,http://www.konda.org/,1
+38,Shah Group,Leena Talwar,contact38@supplier.com,9590785490,Kolkata,West Bengal,India,25WLCSL8311T1Z5,Distributor,45 Days,2019,17,4.3,3624,Yes,360,1929549,https://www.ahluwalia.biz/,1
+39,Goda Ltd,Chandresh Krish,contact39@supplier.com,9423440463,Lucknow,Uttar Pradesh,India,14RMCCL7310R1Z5,Distributor,Advance,2023,14,4.8,3564,Yes,148,5252022,http://shetty.net/,0
+40,"Nadig, Savant and Thaman",Sanaya Dutt,contact40@supplier.com,9526218375,Mumbai,Maharashtra,India,35LOTQR5666A1Z5,Wholesaler,30 Days,2019,13,4,1586,Yes,290,6734045,https://kota-malhotra.net/,1
+41,Khare-Maharaj,Faras Mangal,contact41@supplier.com,9790534133,BANGALORE,Karnataka,India,28PWETB0446N1Z5,Distributor,15 Days,2013,14,4.1,2420,No,270,5184418,http://nagarajan-zachariah.com/,1
+42,Dora and Sons,Michael Kala,contact42@supplier.com,9350321230,Chennai,Tamil Nadu,India,33LDNFO6337N1Z5,Manufacturer,45 Days,2012,30,4,3616,No,364,7017741,http://narayanan-shukla.biz/,0
+43,Jhaveri Group,Anmol Rai,contact43@supplier.com,9491946341,Mumbai,Maharashtra,India,23PNKII3151Q1Z5,Wholesaler,30 Days,2021,26,4.9,1309,Yes,53,2466926,https://www.misra-ramakrishnan.biz/,0
+44,"Kannan, Sura and Kanda",Rajata Sunder,contact44@supplier.com,9117096455,Chennai,Tamil Nadu,India,31YOQQW6104J1Z5,Distributor,60 Days,2011,14,4.3,2642,No,232,640944,http://ravel-gandhi.info/,1
+45,Walla Inc,Avi Chacko,,9808865457,Jaipur,Rajasthan,India,11LVQIM1018K1Z5,Manufacturer,60 Days,2015,4,3.9,3686,No,269,8780256,https://www.gopal-bedi.com/,1
+46,Narang-Kakar,Eta Nazareth,,9324357600,Jaipur,Rajasthan,India,31KGWZP1069J1Z5,Importer,15 Days,2012,12,4.3,2790,Yes,344,8841414,https://krishnan-bumb.info/,1
+47, Zacharia Inc ,Udarsh Biswas,contact47@supplier.com,9503937191,Lucknow,Uttar Pradesh,India,19VCUVW0371M1Z5,Wholesaler,15 Days,2015,29,4.5,1456,No,23,6903063,http://www.iyengar.org/,0
+48,Khare and Sons,Ishwar Kamdar,contact48@supplier.com,9967722979,Chennai,Tamil Nadu,India,16JYZMH3598Z1Z5,Wholesaler,30 Days,2011,23,4.2,3140,Yes,365,8665523,https://ganesh-contractor.com/,1
+49,Chokshi-Bal,Keya Ranganathan,contact49@supplier.com,9014580988,Ahmedabad,Gujarat,India,10KKJKC2307K1Z5,Wholesaler,15 Days,2011,12,4.9,3970,Yes,362,7880361,http://www.kibe.org/,0
+50,Barman LLC,Kamala Biswas,contact50@supplier.com,9002857512,Gurgaon,Haryana,India,19DGQQB8456S1Z5,Wholesaler,15 Days,2019,16,3.5,2990,Yes,293,6998844,https://www.suri-cherian.biz/,1
+51,Sharaf-Dua,Patrick Vig,contact51@supplier.com,9539575080,Mumbai,Maharashtra,India,22ZGAUI7677K1Z5,Wholesaler,Advance,2021,20,4,1534,No,357,8038420,https://sarin-loyal.com/,1
+52,Chadha LLC,Yagnesh Shetty,contact52@supplier.com,9074201095,Bangalore,Karnataka,India,36OGTEJ7831L1Z5,Importer,45 Days,2024,15,4,1630,No,355,8357057,https://talwar.com/,0
+53,Kala-Pant,Harini Mammen,contact53@supplier.com,9204491213,Noida,Uttar Pradesh,India,19HPLRJ0839I1Z5,Manufacturer,Advance,2022,14,4.3,1410,Yes,74,7361320,https://www.halder.biz/,1
+54,Khosla-Soni,Sara Badal,,9073356693,Bangalore,Karnataka,India,34BDJIH9015R1Z5,Manufacturer,30 Days,2018,25,4.2,2439,No,103,2067514,http://ravel.com/,1
+55,Pillay-Solanki,Pavani Narayanan,contact55@supplier.com,9484068330,Mumbai,Maharashtra,India,27HHESS1329Z1Z5,Wholesaler,15 Days,2025,3,4,4788,No,240,9265099,https://mohan-krishnamurthy.com/,1
+56,Hans LLC,Qasim Handa,contact56@supplier.com,9803744451,Gurgaon,Haryana,India,20QLRIW7619N1Z5,Manufacturer,Advance,2014,12,3.7,2743,Yes,178,8715660,http://vohra-mandal.com/,0
+57,Minhas and Sons,Praneel Mittal,contact57@supplier.com,9265135519,Mumbai,Maharashtra,India,14EQXIY0809Y1Z5,Distributor,15 Days,2023,22,4.5,4179,No,329,5078298,http://www.bath-bhagat.net/,0
+58,Date-Swaminathan,Advik Mane,contact58@supplier.com,9862004426,Chennai,Tamil Nadu,India,20WIZIK7512D1Z5,Distributor,45 Days,2017,7,3.6,2477,No,316,7025136,https://oak-gour.com/,1
+59,Sridhar-Comar,Nandini Swamy,contact59@supplier.com,9897119484,Bangalore,Karnataka,India,12YNZFJ0486P1Z5,Distributor,60 Days,2010,30,3.7,1197,No,188,6775480,http://www.dixit.com/,0
+60,Kothari Inc,Upkaar Virk,contact60@supplier.com,9451505729,Delhi,Delhi,India,31PDCJZ5316M1Z5,Manufacturer,Advance,2011,7,4.6,3980,No,77,8658751,https://mishra-sanghvi.com/,1
+61,"Bhasin, Chaudhary and Johal",Aishani Bumb,contact61@supplier.com,9933685554,Jaipur,Rajasthan,India,28HVJRZ5776A1Z5,Importer,30 Days,2017,26,3.6,4035,Yes,269,6388535,http://www.borde.com/,1
+62,Seshadri-Singhal,Bachittar Kata,contact62@supplier.com,9091031647,CHENNAI,Tamil Nadu,India,25WTBDF3653F1Z5,Importer,60 Days,2020,20,4,2265,No,99,4145904,https://setty.com/,0
+63," Hora, Sandal and Contractor ",Manthan Lata,contact63@supplier.com,9299776445,Noida,Uttar Pradesh,India,35SHOOX3371B1Z5,Distributor,Advance,2021,17,4.5,4024,Yes,104,9045838,http://www.gandhi.org/,0
+64,"Mani, Sarna and Dash",Daksha Rau,contact64@supplier.com,9616526560,Noida,Uttar Pradesh,India,23IMRDZ9168P1Z5,Importer,15 Days,2019,13,3.9,584,Yes,334,9642359,https://buch-baral.biz/,1
+65,"Naidu, Krishna and Bal",Veer Bail,contact65@supplier.com,9780948908,NOIDA,Uttar Pradesh,India,35MYZYW0519J1Z5,Importer,60 Days,2025,7,4.8,3934,No,99,1899899,https://www.singhal.info/,0
+66,Golla-Sarin,Gavin Singhal,contact66@supplier.com,9767032616,Bangalore,Karnataka,India,30XVNCR1132I1Z5,Importer,15 Days,2024,27,3.9,2800,No,299,9621287,https://nagi-cheema.com/,1
+67,Sabharwal-Tandon,Nandini Bansal,contact67@supplier.com,9660134587,Ahmedabad,Gujarat,India,19RQYJF9449L1Z5,Importer,60 Days,2025,27,4.3,1889,Yes,349,1383555,https://www.krishnan-naik.com/,0
+68,Varkey-Agarwal,Odika Bhagat,contact68@supplier.com,9705055513,Noida,Uttar Pradesh,India,26LRSMX4014S1Z5,Manufacturer,60 Days,2024,24,4.7,278,No,131,60591,http://tara.com/,1
+69,Deep-Mani,Vedhika Dara,contact69@supplier.com,9047508942,Gurgaon,Haryana,India,15TTZQK9389M1Z5,Manufacturer,60 Days,2014,23,4.8,1071,Yes,276,6604429,http://www.dutt.net/,1
+70,Chander-Kar,Triya Dalal,contact70@supplier.com,9879474324,Chennai,Tamil Nadu,India,14HYSCV4780G1Z5,Manufacturer,Advance,2011,17,4.4,498,Yes,23,6758892,http://manne.biz/,0
+71,Sodhi-Kohli,Maanav Rajagopal,,9577192955,Chennai,Tamil Nadu,India,34RIHDR2309X1Z5,Wholesaler,45 Days,2025,4,5,3222,No,357,6994768,http://www.majumdar.com/,0
+72,"Loke, Agate and Mandal",Vrishti Dixit,contact72@supplier.com,9215228140,Bangalore,Karnataka,India,23ZODGF6980X1Z5,Wholesaler,Advance,2018,15,4.5,423,Yes,97,9868018,https://natarajan-purohit.info/,1
+73,Gulati-Khare,Vivaan Roy,contact73@supplier.com,9293921777,Kolkata,West Bengal,India,17SSKGI2463L1Z5,Importer,45 Days,2013,28,5,3946,No,105,6229396,http://solanki.com/,0
+74,Bansal-Date,Harish Sarraf,contact74@supplier.com,9087055721,Lucknow,Uttar Pradesh,India,17JVMRR2896P1Z5,Importer,15 Days,2021,8,3.7,4577,No,95,9105547,http://dhawan.com/,1
+75,Singh LLC,Mitali Buch,contact75@supplier.com,9089674827,Noida,Uttar Pradesh,India,10FLBQY9605N1Z5,Manufacturer,Advance,2018,20,5,240,No,92,1805437,https://sura-banik.org/,1
+76,Keer Ltd,Utkarsh Chana,contact76@supplier.com,9115823345,Noida,Uttar Pradesh,India,32FRWQW7035B1Z5,Manufacturer,15 Days,2012,18,4.8,2813,Yes,271,723900,https://www.chaudhry.com/,1
+77,Batra LLC,Chaaya Parmer,contact77@supplier.com,12345,Chennai,Tamil Nadu,India,15YIYPT7301H1Z5,Importer,60 Days,2020,15,4.6,1246,Yes,257,5812559,https://konda.biz/,1
+78,"Gole, Garde and Gill",Lavanya Khosla,contact78@supplier.com,9483793702,Mumbai,Maharashtra,India,24MJYLR6067W1Z5,Manufacturer,Advance,2018,7,4.1,1363,No,163,6061545,https://www.shenoy.com/,1
+79,Kumer-Andra,Bhavna Dugar,contact79@supplier.com,9033211454,Mumbai,Maharashtra,India,10COPUW0477R1Z5,Wholesaler,60 Days,2015,24,4.1,1237,No,155,4513118,http://mistry-samra.com/,0
+80,Mittal-Issac,Vasudha Chhabra,contact80@supplier.com,9044402265,Bangalore,Karnataka,India,16LDAKV3844U1Z5,Wholesaler,30 Days,2020,22,4.9,1745,No,161,2990258,http://parmer.com/,0
+81,"Randhawa, Maharaj and Anand",Watika Mangat,contact81@supplier.com,9264523831,JAIPUR,Rajasthan,India,28FZETA7927W1Z5,Manufacturer,45 Days,2025,7,4.5,2082,No,338,2596094,http://gupta.com/,0
+82,"Devan, Chatterjee and Baral",Ridhi Bandi,contact82@supplier.com,9094459657,Lucknow,Uttar Pradesh,India,21SVPXC2616S1Z5,Importer,30 Days,2023,6,3.5,2219,Yes,262,8713982,https://www.merchant.biz/,1
+83,Iyer and Sons,Yachana Mahajan,contact83@supplier.com,12345,Kolkata,West Bengal,India,12DYDIL2444W1Z5,Importer,30 Days,2012,12,3.6,1042,Yes,176,1844801,http://merchant-nigam.com/,1
+84,Borra-Dhaliwal,Mekhala Pau,,9553447616,CHENNAI,Tamil Nadu,India,22APFPK7278C1Z5,Manufacturer,60 Days,2015,14,4,3848,Yes,135,8222178,http://lalla.com/,0
+85,Pillay-Lala,Kamya Chokshi,contact85@supplier.com,9331341689,Gurgaon,Haryana,India,28CDDHE6541M1Z5,Importer,15 Days,2025,23,4.3,1519,Yes,251,4855843,http://narang.com/,1
+86,"Bhatnagar, Shetty and Mittal",Jackson Dey,contact86@supplier.com,9340301895,Bangalore,Karnataka,India,25KMSLE5720H1Z5,Distributor,15 Days,2024,21,4.6,4157,Yes,294,1926069,http://www.tailor-dalia.com/,0
+87,Yogi and Sons,Sudiksha Prabhakar,contact87@supplier.com,9838075918,Noida,Uttar Pradesh,India,34GWAGW0818G1Z5,Distributor,60 Days,2023,8,4.4,1792,Yes,31,9574260,https://www.chaudhary-suri.org/,0
+88,Mammen-Bali,Teerth Sawhney,contact88@supplier.com,9253722896,Noida,Uttar Pradesh,India,13DTKBH6711K1Z5,Wholesaler,45 Days,2025,7,4.4,2301,No,193,7593162,https://www.chaudhary-pillai.net/,1
+89,"Parmer, Bhat and Rao",Ranveer Das,contact89@supplier.com,12345,Mumbai,Maharashtra,India,12TLRJB5242I1Z5,Distributor,30 Days,2020,20,4.4,4737,No,176,822172,https://www.kala.com/,1
+90,Dass PLC,Ekapad Johal,contact90@supplier.com,9680914949,Mumbai,Maharashtra,India,14WHWWC3066B1Z5,Importer,30 Days,2017,16,4.5,879,Yes,110,8009489,http://www.divan-agate.com/,1
+91,De PLC,Owen Choudhary,contact91@supplier.com,9554031864,Bangalore,Karnataka,India,17JSCIW1771V1Z5,Wholesaler,Advance,2010,22,4.5,3705,No,110,2549636,http://www.parmar.org/,0
+92,Babu-Ghosh,Charles Date,contact92@supplier.com,9680175393,Gurgaon,Haryana,India,14GQGPS2908J1Z5,Wholesaler,60 Days,2016,26,4.1,547,Yes,254,6484085,https://www.bhatt.com/,1
+93,"Chopra, Seth and Thakur",Caleb Verma,contact93@supplier.com,9455999185,Chennai,Tamil Nadu,India,21OEMZB5029Z1Z5,Importer,60 Days,2019,23,4.6,3503,No,360,6759095,https://balasubramanian.biz/,1
+94,Chokshi-Swaminathan,Ethan Buch,contact94@supplier.com,9510099135,Noida,Uttar Pradesh,India,34VRBSS8004O1Z5,Manufacturer,30 Days,2015,6,3.5,1224,Yes,84,8338426,https://www.date.org/,0
+95,"Nair, Raj and Wali",Sudiksha Tiwari,contact95@supplier.com,9582378718,Noida,Uttar Pradesh,India,20UHBSO0434S1Z5,Wholesaler,30 Days,2015,11,4.7,4801,Yes,117,8546665,https://www.contractor.info/,1
+96,Sachdev LLC,Mohini Sagar,contact96@supplier.com,9800391908,Delhi,Delhi,India,32TKIKS2035B1Z5,Wholesaler,15 Days,2011,15,3.6,3910,No,160,5501198,http://munshi-kumer.com/,1
+97,Som Inc,Frederick Chander,contact97@supplier.com,9432772399,Noida,Uttar Pradesh,India,34FXTGA4238A1Z5,Distributor,Advance,2022,30,4.6,2619,Yes,106,8898812,https://www.pradhan.org/,1
+98,"Narayan, Das and Roy",Pallavi Behl,contact98@supplier.com,9409709857,Lucknow,Uttar Pradesh,India,21LTPNQ3506E1Z5,Wholesaler,30 Days,2018,30,4,3319,No,163,7606016,https://chawla-tripathi.com/,0
+99,Subramaniam and Sons,Inaya Pillai,contact99@supplier.com,9027511445,Chennai,Tamil Nadu,India,34FIGDE6860K1Z5,Wholesaler,Advance,2017,14,4.1,501,No,134,2927016,http://kara.org/,1
+100," Loke, Balakrishnan and Gole ",Dayamai Nori,contact100@supplier.com,9855017107,Lucknow,Uttar Pradesh,India,17DVJQQ5280C1Z5,Wholesaler,45 Days,2014,5,4.9,2816,Yes,22,7744211,https://www.dhar.biz/,1
+84,Borra-Dhaliwal,Mekhala Pau,,9553447616,Chennai,Tamil Nadu,India,22APFPK7278C1Z5,Manufacturer,60 Days,2015,14,4,3848,Yes,135,8222178,http://lalla.com/,0
+54,Khosla-Soni,Sara Badal,,9073356693,Bangalore,Karnataka,India,34BDJIH9015R1Z5,Manufacturer,30 Days,2018,25,4.2,2439,No,103,2067514,http://ravel.com/,1
+71,Sodhi-Kohli,Maanav Rajagopal,,9577192955,Chennai,Tamil Nadu,India,34RIHDR2309X1Z5,Wholesaler,45 Days,2025,4,5,3222,No,357,6994768,http://www.majumdar.com/,0

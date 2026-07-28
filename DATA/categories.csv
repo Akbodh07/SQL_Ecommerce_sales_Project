@@ -1,0 +1,21 @@
+category_id,category_name,department,gst_percent
+1,Electronics,Technology,18
+2,Mobiles,Technology,18
+3,Laptops,Technology,18
+4,Fashion,Lifestyle,12
+5,Men Clothing,Lifestyle,12
+6,Women Clothing,Lifestyle,12
+7,Footwear,Lifestyle,12
+8,Beauty,Lifestyle,18
+9,Home & Kitchen,Home,18
+10,Furniture,Home,18
+11,Sports,Fitness,18
+12,Books,Education,0
+13,Toys,Kids,12
+14,Groceries,Daily Needs,5
+15,Health,Healthcare,12
+16,Pet Supplies,Pets,18
+17,Jewellery,Luxury,3
+18,Automotive,Vehicles,28
+19,Gaming,Technology,18
+20,Office Supplies,Business,18
